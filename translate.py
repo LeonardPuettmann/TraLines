@@ -5,6 +5,7 @@ from mistralai import Mistral
 from dotenv import load_dotenv
 from tqdm import tqdm
 import spacy
+import time
 
 # Load environment variables from .env file
 load_dotenv(override=True)
@@ -52,6 +53,7 @@ def should_split_text(text: str, api_key: str) -> bool:
     return response == "split"
 
 def translate_text(text: str, api_key: str) -> str:
+    time.sleep(1) # wait one second before translating more
     model = "mistral-small-latest"
     client = Mistral(api_key=api_key)
 

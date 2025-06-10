@@ -2,7 +2,7 @@
     "sentences": [
         {
             "original": "# UMBERTO ECO\n\n![img-0.jpeg](img-0.jpeg)\n\n# IL NOME DELLA ROSA\n\nappendice postille a \"Il nome della rosa\"",
-            "translated": "# UMBERTO ECO\n\n![img-0.jpeg](img-0.jpeg)\n\n# THE NAME OF THE ROSE\n\nAppendix and notes to \"The Name of the Rose\"",
+            "translated": "# UMBERTO ECO\n\n![img-0.jpeg](img-0.jpeg)\n\n# THE NAME OF THE ROSE\n\nappendices and notes to \"The Name of the Rose\"",
             "content_type": "whole"
         },
         {
@@ -17,22 +17,22 @@
         },
         {
             "original": "# INDICE \n\nNaturalmente, un manoscritto ..... 9\nNota ..... 14\nPrologo ..... 15\nPrimo giorno ..... 22\nPrima ..... 23\nDove si arriva ai piedi dell'abbazia e Guglielmo ..... 23\nda prova di grande acume ..... 23\nTerza ..... 28\nDove Guglielmo ha una istruttiva conversazione ..... 28\ncon l'Abate ..... 28\nSesta ..... 38\nDove Adso ammira il portale della chiesa e Guglielmo ..... 38\nritrova Ubertino da Casale ..... 38\nVerso nona ..... 57\nDove Guglielmo ha un dialogo dottissimo con ..... 57\nSeverino erborista ..... 57\nDopo nona ..... 61\nDove si visita lo scriptorium e si conoscono molti studiosi, ..... 61\ncopisti e rubricatori nonché un vegliardo cieco che attende ..... 61\nl'Anticristo ..... 61\nVespri ..... 71\nDove si visita il resto dell'abbazia, Guglielmo trae alcune ..... 71\nconclusioni sulla morte di Adelmo, si parla col fratello ..... 71\nvetraio di vetri per leggere e di fantasmi per chi vuol ..... 71\nleggere troppo ..... 71\nCompieta ..... 78\nDove Guglielmo e Adso godono della lieta ospitalità dell'Abate ..... 78\ne della corrucciata conversazione di Jorge ..... 78\nSecondo giorno ..... 82\nMattutino ..... 83\nDove poche ore di mistica felicità sono interrotte ..... 83\nda un sanguinosissimo evento ..... 83\nPrima ..... 90\nDove Bencio da Upsala confida alcune cose, altre ne confida ..... 90\nBerengario da Arundel e Adso apprende cosa sia la vera penitenza ..... 90\nTerza ..... 98\nDove si assiste a una rissa tra persone volgari, Aymaro da ..... 98\nAlessandria fa alcune allusioni e Adso medita sulla santità ..... 98\ne sullo stereo del demonio. Poi Guglielmo e Adso tornano ..... 98\nnello scriptorium, Guglielmo vede qualcosa d'interessante ..... 98\nha una terza conversazione sulla liceità del riso, ma in ..... 98\ndefinitiva non può guardare dove vorrebbe ..... 98\nSesta ..... 109\nDove Bencio fa uno strano racconto da cui si apprendono ..... 109\ncose poco edificanti sulla vita dell'abbazia ..... 109\nNona ..... 113\nDove l'Abate si mostra fiero delle ricchezze della sua abbazia ..... 113\ne timoroso degli eretici, e alla fine Adso dubita di aver ..... 113\nfatto male ad andare per il mondo ..... 113\nDopo vespri ..... 124",
-            "translated": "# INDEX\n\nNaturally, a manuscript ..... 9\nNote ..... 14\nPrologue ..... 15\nFirst Day ..... 22\nFirst ..... 23\nWhere they arrive at the foot of the abbey and Guglielmo ..... 23\nshows great acumen ..... 23\nThird ..... 28\nWhere Guglielmo has an instructive conversation ..... 28\nwith the Abbot ..... 28\nSixth ..... 38\nWhere Adso admires the portal of the church and Guglielmo ..... 38\nfinds Ubertino da Casale ..... 38\nTowards None ..... 57\nWhere Guglielmo has a learned dialogue with ..... 57\nSeverinus the herbalist ..... 57\nAfter None ..... 61\nWhere they visit the scriptorium and meet many scholars, ..... 61\ncopyists and rubricators as well as an old blind man who awaits ..... 61\nthe Antichrist ..... 61\nVespers ..... 71\nWhere they visit the rest of the abbey, Guglielmo draws some ..... 71\nconclusions about the death of Adelmo, talks with the brother ..... 71\nglassmaker of glasses for reading and ghosts for those who want ..... 71\nto read too much ..... 71\nCompline ..... 78\nWhere Guglielmo and Adso enjoy the Abbot's hospitable ..... 78\nconversation and Jorge's sullen conversation ..... 78\nSecond Day ..... 82\nMatins ..... 83\nWhere a few hours of mystical happiness are interrupted ..... 83\nby a very bloody event ..... 83\nFirst ..... 90\nWhere Bencio da Upsala confides some things, Berengario da Arundel confides others and Adso learns what true penance is ..... 90\nThird ..... 98\nWhere a brawl between common people is witnessed, Aymaro da ..... 98\nAlexandria makes some allusions and Adso meditates on the sanctity ..... 98\nand the stereo of the devil. Then Guglielmo and Adso return ..... 98\nto the scriptorium, Guglielmo sees something interesting ..... 98\nhas a third conversation about the permissibility of laughter, but in ..... 98\nthe end he cannot look where he wants ..... 98\nSixth ..... 109\nWhere Bencio tells a strange story from which little edifying ..... 109\nthings are learned about the life of the abbey ..... 109\nNone ..... 113\nWhere the Abbot shows off the riches of his abbey ..... 113\nand is fearful of heretics, and in the end Adso doubts whether he ..... 113\nhas done wrong to go out into the world ..... 113\nAfter Vespers ..... 124",
+            "translated": "# INDEX\n\nNaturally, a manuscript ..... 9\nNote ..... 14\nPrologue ..... 15\nFirst day ..... 22\nFirst ..... 23\nWhere they arrive at the foot of the abbey and Guglielmo ..... 23\nshows great acumen ..... 23\nThird ..... 28\nWhere Guglielmo has an instructive conversation ..... 28\nwith the Abbot ..... 28\nSixth ..... 38\nWhere Adso admires the portal of the church and Guglielmo ..... 38\nfinds Ubertino da Casale ..... 38\nTowards nones ..... 57\nWhere Guglielmo has a learned dialogue with ..... 57\nSeverinus the herbalist ..... 57\nAfter nones ..... 61\nWhere the scriptorium is visited and many scholars, ..... 61\ncopyists and rubricators are met, as well as an old blind man who awaits ..... 61\nthe Antichrist ..... 61\nVespers ..... 71\nWhere the rest of the abbey is visited, Guglielmo draws some ..... 71\nconclusions about the death of Adelmo, talks with the brother ..... 71\nglassmaker of glasses for reading and ghosts for those who want ..... 71\nto read too much ..... 71\nCompline ..... 78\nWhere Guglielmo and Adso enjoy the cheerful hospitality of the Abbot ..... 78\nand the sullen conversation of Jorge ..... 78\nSecond day ..... 82\nMatins ..... 83\nWhere a few hours of mystical happiness are interrupted ..... 83\nby a very bloody event ..... 83\nFirst ..... 90\nWhere Bencio da Upsala confides some things, others Berengario da Arundel confides and Adso learns what true penance is ..... 90\nThird ..... 98\nWhere a brawl between common people is witnessed, Aymaro da ..... 98\nAlexandria makes some allusions and Adso reflects on holiness ..... 98\nand the stereo of the devil. Then Guglielmo and Adso return ..... 98\nto the scriptorium, Guglielmo sees something interesting ..... 98\nhas a third conversation on the lawfulness of laughter, but in ..... 98\nthe end he cannot look where he would like ..... 98\nSixth ..... 109\nWhere Bencio tells a strange story from which little edifying things are learned about the life of the abbey ..... 109\nNones ..... 113\nWhere the Abbot shows himself proud of the riches of his abbey ..... 113\nand fearful of heretics, and in the end Adso doubts whether he has done wrong to go out into the world ..... 113\nAfter vespers ..... 124",
             "content_type": "whole"
         },
         {
             "original": "Dove, malgrado il capitolo sia breve, il vegliardo Alinardo ..... 124\ndice cose assai interessanti sul labirinto e sul modo di ..... 124\nentrarvi ..... 124\nCompieta ..... 127\nDove si entra nell'Edificio, si scopre un visitatore misterioso, ..... 127\nsi trova un messaggio segreto con segni da negromante, e ..... 127\nscompare, appena trovato, un libro che poi sarà ricercato ..... 127\nper molti altri capitoli, né ultima vicissitudine è il furto ..... 127\ndelle preziose lenti di Guglielmo ..... 127\nNotte ..... 134\nDove si penetra finalmente nel labirinto, si hanno strane visioni ..... 134\ne, come accade nei labirinti, ci si perde ..... 134\nTerzo Giorno ..... 142\nDa laudi a prima ..... 143\nDove si trova un panno sporco di sangue nella cella ..... 143\ndi Berengario scomparso, ed è tutto ..... 143\nTerza ..... 144\nDove Adso nello scriptorium riflette sulla storia del ..... 144\nsuo ordine e sul destino dei libri ..... 144\nSesta ..... 147\nDove Adso riceve le confidenze di Salvatore, che non si ..... 147\npossono riassumere in poche parole, ma che gli ispirano ..... 147\nmolte preoccupate meditazioni ..... 147\nNona ..... 154\nDove Guglielmo parla ad Adso del gran fiume ereticale, ..... 154\ndella funzione dei semplici nella chiesa, dei suoi dubbi ..... 154\nsulla conoscibilità delle leggi generali, e quasi per inciso ..... 154\nracconta come ha decifrato i segni negromantici lasciati ..... 154\nda Venanzio ..... 154\nVespri ..... 165\nDove si parla ancora con l'Abate, Guglielmo ha alcune idee ..... 165\nmirabolanti per decifrare l'enigma del labirinto, e ci riesce ..... 165\nnel modo più ragionevole. Poi si mangia il casio in ..... 165\npastelletto ..... 165\nDopo compieta ..... 174\nDove Ubertino racconta ad Adso la storia di fra Dolcino, ..... 174\naltre storie Adso rievoca o legge in biblioteca per conto suo, ..... 174\ne poi gli accade di avere un incontro con una fanciulla bella ..... 174\ne terribile come un esercito schierato a battaglia ..... 174\nNotte ..... 196\nDove Adso sconvolto si confessa con Guglielmo e medita ..... 196\nsulla funzione della donna nel piano della creazione, poi ..... 196\nperò scopre il cadavere di un uomo ..... 196\nQuarto giorno ..... 200\nLaudi ..... 201\nDove Guglielmo e Severino esaminano il cadavere di Berengario, ..... 201\nscoprono che ha la lingua nera, cosa singolare per un annegato. ..... 201\nPoi discutono di veleni dolorosissimi e di un furto remoto ..... 201\nPrima ..... 207\nDove Guglielmo induce prima Salvatore e poi il cellario ..... 207\na confessare il loro passato, Severino ritrova le lenti rubate, ..... 207",
-            "translated": "Where, although the chapter is brief, the old man Alinardo ..... 124\nsays very interesting things about the labyrinth and the way to ..... 124\nenter it ..... 124\nCompline ..... 127\nWhere upon entering the Building, a mysterious visitor is discovered, ..... 127\na secret message with necromantic signs is found, and ..... 127\na book that will later be sought for many other chapters disappears as soon as it is found, and the last misfortune is the theft ..... 127\nof Guglielmo's precious glasses ..... 127\nNight ..... 134\nWhere one finally penetrates the labyrinth, has strange visions ..... 134\nand, as happens in labyrinths, gets lost ..... 134\nThird Day ..... 142\nFrom Lauds to Prime ..... 143\nWhere a cloth stained with blood is found in the cell ..... 143\nof Berengar, who has disappeared, and that's all ..... 143\nTerce ..... 144\nWhere Adso reflects in the scriptorium on the history of ..... 144\nhis order and the fate of books ..... 144\nSext ..... 147\nWhere Adso receives the confidences of Salvatore, which cannot ..... 147\nbe summarized in a few words, but which inspire him ..... 147\nwith many worried meditations ..... 147\nNone ..... 154\nWhere Guglielmo speaks to Adso about the great heretical river, ..... 154\nthe function of the simple in the church, his doubts ..... 154\nabout the knowability of general laws, and almost incidentally ..... 154\ntells how he deciphered the necromantic signs left ..... 154\nby Venantius ..... 154\nVespers ..... 165\nWhere there is more talk with the Abbot, Guglielmo has some ..... 165\nmiraculous ideas for deciphering the enigma of the labyrinth, and succeeds ..... 165\nin the most reasonable way. Then they eat the cheese in ..... 165\na pastry ..... 165\nAfter Compline ..... 174\nWhere Ubertino tells Adso the story of Fra Dolcino, other stories Adso recalls or reads in the library on his own, ..... 174\nand then he happens to have an encounter with a girl beautiful ..... 174\nand terrible as an army arrayed for battle ..... 174\nNight ..... 196\nWhere Adso, upset, confesses to Guglielmo and meditates ..... 196\non the function of woman in the plan of creation, then ..... 196\nhowever, discovers the corpse of a man ..... 196\nFourth Day ..... 200\nLauds ..... 201\nWhere Guglielmo and Severinus examine the corpse of Berengar, ..... 201\ndiscover that he has a black tongue, a singular thing for a drowned man. ..... 201\nThen they discuss extremely painful poisons and a remote theft ..... 201\nPrime ..... 207\nWhere Guglielmo induces first Salvatore and then the cellarer ..... 207\nto confess their past, Severinus finds the stolen glasses, ..... 207",
+            "translated": "Where, although the chapter is brief, the elderly Alinardo ..... 124\nsays very interesting things about the labyrinth and the way to ..... 124\nenter it ..... 124\nCompline ..... 127\nWhere upon entering the Building, a mysterious visitor is discovered, ..... 127\na secret message with necromancer's signs is found, and ..... 127\na book that will later be sought for many other chapters disappears as soon as it is found, and the last misfortune is the theft ..... 127\nof Guglielmo's precious glasses ..... 127\nNight ..... 134\nWhere one finally penetrates the labyrinth, has strange visions ..... 134\nand, as happens in labyrinths, gets lost ..... 134\nThird Day ..... 142\nFrom Lauds to Prime ..... 143\nWhere a blood-stained cloth is found in the cell ..... 143\nof Berengar, who has disappeared, and that's all ..... 143\nTerce ..... 144\nWhere Adso reflects in the scriptorium on the history of ..... 144\nhis order and the fate of books ..... 144\nSext ..... 147\nWhere Adso receives the confidences of Salvatore, which cannot ..... 147\nbe summarized in a few words, but which inspire ..... 147\nmany worried meditations ..... 147\nNone ..... 154\nWhere Guglielmo speaks to Adso about the great heretical river, ..... 154\nthe function of the simple in the church, his doubts ..... 154\nabout the knowability of general laws, and almost incidentally ..... 154\ntells how he deciphered the necromantic signs left ..... 154\nby Venantius ..... 154\nVespers ..... 165\nWhere there is more talk with the Abbot, Guglielmo has some ..... 165\nmiraculous ideas for deciphering the labyrinth's enigma, and he succeeds ..... 165\nin the most reasonable way. Then they eat the cheese in ..... 165\npastry ..... 165\nAfter Compline ..... 174\nWhere Ubertino tells Adso the story of Fra Dolcino, other stories Adso recalls or reads in the library on his own, ..... 174\nand then he has an encounter with a maiden beautiful ..... 174\nand terrible as an army arrayed for battle ..... 174\nNight ..... 196\nWhere Adso, upset, confesses to Guglielmo and meditates ..... 196\non the function of woman in the plan of creation, then ..... 196\nhowever, discovers the corpse of a man ..... 196\nFourth Day ..... 200\nLauds ..... 201\nWhere Guglielmo and Severinus examine the corpse of Berengar, ..... 201\ndiscover that he has a black tongue, a singular thing for a drowned man. ..... 201\nThen they discuss extremely painful poisons and a remote theft ..... 201\nPrime ..... 207\nWhere Guglielmo induces first Salvatore and then the cellarer ..... 207\nto confess their past, Severinus finds the stolen glasses, ..... 207",
             "content_type": "whole"
         },
         {
             "original": "Nicola porta quelle nuove e Guglielmo con sei occhi va ..... 207\na decifrare il manoscritto di Venanzio ..... 207\nTerza ..... 215\nDove Adso si dibatte nei patimenti d'amore, poi arriva ..... 215\nGuglielmo col testo di Venanzio, che continua a rimanere ..... 215\nindecifrabile anche dopo esser stato decifrato ..... 215\nSesta ..... 223\nDove Adso va a cercar tartufi e trova i minoriti in arrivo, ..... 223\nquesti colloquiano a lungo con Guglielmo e Ubertino ..... 223\ne si apprendono cose molto tristi su Giovanni XXII ..... 223\nNona ..... 233\nDove arrivano il cardinale del Poggetto, Bernardo Gui e gli ..... 233\naltri uomini di Avignone, e poi ciascuno fa cose diverse ..... 233\nVespri ..... 235\nDove Alinardo sembra dare informazioni preziose e Guglielmo ..... 235\nrivela il suo metodo per arrivare a una verità probabile ..... 235\nattraverso una serie di sicuri errori ..... 235\nCompieta ..... 238\nDove Salvatore parla di una magia portentosa ..... 238\nDopo compieta ..... 240\nDove si visita di nuovo il labirinto, si arriva alla soglia del ..... 240\nfinis Africae ma non ci si può entrare perché non si sa cosa ..... 240\nsiano il primo e il settimo dei quattro, e infine Adso ha una ..... 240\nricadata, peraltro assai dotta, nella sua malattia d'amore ..... 240\nNotte ..... 253\nDove Salvatore si fa miseramente scoprire da Bernardo Gui, ..... 253\nla ragazza amata da Adso viene presa come strega e tutti ..... 253\nvanno a letto più infelici e preoccupati di prima ..... 253\nQuinto giorno ..... 258\nPrima ..... 259\nDove ha luogo una fraterna discussione sulla povertà di Gesù ..... 259\nTerza ..... 269\nDove Severino parla a Guglielmo di uno strano libro ..... 269\ne Guglielmo parla ai legati di una strana concezione ..... 269\ndel governo temporale ..... 269\nSesta ..... 276\nDove si trova Severino assassinato e non si trova più ..... 276\nil libro che lui aveva trovato ..... 276\nNona ..... 284\nDove si amministra la giustizia e si ha la imbarazzante ..... 284\nimpressione che tutti abbiano torto ..... 284\nVespri ..... 300\nDove Ubertino si dà alla fuga, Bencio incomincia a osservare ..... 300\nle leggi e Guglielmo fa alcune riflessioni sui vari tipi di ..... 300\nlussuria incontrati quel giorno ..... 300\nCompieta ..... 305\nDove si ascolta un sermone sulla venuta dell'Anticristo ..... 305\ne Adso scopre il potere dei nomi propri ..... 305\nSesto giorno ..... 313\nMattutino ..... 314\nDove i principi sederunt, e Malachia stramazza al suolo ..... 314",
-            "translated": "Nicola brings those new ones and Guglielmo with six eyes goes ..... 207\nto decipher the manuscript of Venantius ..... 207\nThird ..... 215\nWhere Adso struggles with the pains of love, then Guglielmo arrives ..... 215\nwith the text of Venantius, which remains ..... 215\nindecipherable even after being deciphered ..... 215\nSixth ..... 223\nWhere Adso goes to search for truffles and finds the Minorites arriving, ..... 223\nthese converse at length with Guglielmo and Ubertino ..... 223\nand very sad things are learned about John XXII ..... 223\nNinth ..... 233\nWhere the cardinal of the Poggetto, Bernardo Gui and the ..... 233\nother men of Avignon arrive, and then each one does different things ..... 233\nVespers ..... 235\nWhere Alinardo seems to provide valuable information and Guglielmo ..... 235\nreveals his method for arriving at a probable truth ..... 235\nthrough a series of certain errors ..... 235\nCompline ..... 238\nWhere Salvatore speaks of a wondrous magic ..... 238\nAfter Compline ..... 240\nWhere the labyrinth is visited again, the threshold of the ..... 240\nfinis Africae is reached but one cannot enter because one does not know what ..... 240\nthe first and the seventh of the four are, and finally Adso has a ..... 240\nrelapse, moreover very learned, in his love sickness ..... 240\nNight ..... 253\nWhere Salvatore is miserably discovered by Bernardo Gui, ..... 253\nthe girl loved by Adso is taken as a witch and all ..... 253\ngo to bed more unhappy and worried than before ..... 253\nFifth day ..... 258\nFirst ..... 259\nWhere a fraternal discussion takes place on the poverty of Jesus ..... 259\nThird ..... 269\nWhere Severinus speaks to Guglielmo of a strange book ..... 269\nand Guglielmo speaks to the envoys of a strange conception ..... 269\nof temporal government ..... 269\nSixth ..... 276\nWhere Severinus is found murdered and the book that he had found ..... 276\nis no longer found ..... 276\nNinth ..... 284\nWhere justice is administered and one has the embarrassing ..... 284\nimpression that everyone is wrong ..... 284\nVespers ..... 300\nWhere Ubertino flees, Bencio begins to observe ..... 300\nthe laws and Guglielmo makes some reflections on the various types of ..... 300\nlust encountered that day ..... 300\nCompline ..... 305\nWhere a sermon is heard on the coming of the Antichrist ..... 305\nand Adso discovers the power of proper nouns ..... 305\nSixth day ..... 313\nMatins ..... 314\nWhere the princes sederunt, and Malachia collapses to the ground ..... 314",
+            "translated": "Nicola brings those new ones and Guglielmo with six eyes goes ..... 207\nto decipher the manuscript of Venanzio ..... 207\nThird ..... 215\nWhere Adso struggles with the pains of love, then Guglielmo arrives ..... 215\nwith the text of Venanzio, which remains ..... 215\nindecipherable even after being deciphered ..... 215\nSixth ..... 223\nWhere Adso goes to search for truffles and finds the Minorites arriving, ..... 223\nthese converse at length with Guglielmo and Ubertino ..... 223\nand very sad things are learned about John XXII ..... 223\nNinth ..... 233\nWhere the cardinal of Poggetto, Bernardo Gui, and the ..... 233\nother men of Avignon arrive, and then each one does different things ..... 233\nVespers ..... 235\nWhere Alinardo seems to provide valuable information and Guglielmo ..... 235\nreveals his method for arriving at a probable truth ..... 235\nthrough a series of certain errors ..... 235\nCompline ..... 238\nWhere Salvatore speaks of a wondrous magic ..... 238\nAfter Compline ..... 240\nWhere the labyrinth is visited again, the threshold of the ..... 240\nfinis Africae is reached but one cannot enter because one does not know what ..... 240\nthe first and the seventh of the four are, and finally Adso has a ..... 240\nrelapse, moreover quite learned, in his illness of love ..... 240\nNight ..... 253\nWhere Salvatore is miserably discovered by Bernardo Gui, ..... 253\nthe girl loved by Adso is taken as a witch and all ..... 253\ngo to bed more unhappy and worried than before ..... 253\nFifth day ..... 258\nFirst ..... 259\nWhere a fraternal discussion takes place on the poverty of Jesus ..... 259\nThird ..... 269\nWhere Severino speaks to Guglielmo of a strange book ..... 269\nand Guglielmo speaks to the envoys of a strange conception ..... 269\nof temporal government ..... 269\nSixth ..... 276\nWhere Severino is found murdered and the book that he had found ..... 276\nis no longer found ..... 276\nNinth ..... 284\nWhere justice is administered and one has the embarrassing ..... 284\nimpression that everyone is wrong ..... 284\nVespers ..... 300\nWhere Ubertino flees, Bencio begins to observe ..... 300\nthe laws and Guglielmo makes some reflections on the various types of ..... 300\nlust encountered that day ..... 300\nCompline ..... 305\nWhere a sermon is heard on the coming of the Antichrist ..... 305\nand Adso discovers the power of proper names ..... 305\nSixth day ..... 313\nMatins ..... 314\nWhere the princes sederunt, and Malachia collapses to the ground ..... 314",
             "content_type": "whole"
         },
         {
             "original": "Laudi ..... 318\nDove viene eletto un nuovo cellario ma non ..... 318\nun nuovo bibliotecario ..... 318\nPrima ..... 320\nDove Nicola racconta tante cose, mentre ..... 320\nsi visita la cripta del tesoro ..... 320\nTerza ..... 326\nDove Adso, ascoltando il\"Dies irae\", ha un sogno ..... 326\no visione che dir si voglia ..... 326\nDopo terza ..... 334\nDove Guglielmo spiega ad Adso il suo sogno ..... 334\nSesta ..... 336\nDove si ricostruisce la storia dei bibliotecari e si ha ..... 336\nqualche notizia in più sul libro misterioso ..... 336\nNona ..... 340\nDove l'Abate si rifiuta di ascoltare Guglielmo, parla del ..... 340\nlinguaggio delle gemme e manifesta il desiderio che non si ..... 340\nindaghi più su quelle tristi vicende ..... 340\nTra vespro e compieta ..... 347\nDove in breve si racconta di lunghe ore di smarrimento ..... 347\nDopo compieta ..... 349\nDove, quasi per caso, Guglielmo scopre il segreto ..... 349\nper entrare nel finis Africae ..... 349\nSettimo giorno ..... 353\nNotte ..... 354\nDove, a riassumere le rivelazioni prodigiose di cui qui si ..... 354\nparla, il titolo dovrebbe essere lungo quanto il capitolo, ..... 354\nil che è contrario alle consuetudini ..... 354\nNotte ..... 366\nDove avviene l'ecpirosi e a causa della troppa virtù ..... 366\nprevalgono le forze dell'inferno ..... 366\nUltimo folio ..... 376\nPostille ..... 381\na \"Il nome della rosa\" ..... 381\n1983 ..... 381",
-            "translated": "Praises ..... 318\nWhere a new cellarer is elected but not ..... 318\na new librarian ..... 318\nFirst ..... 320\nWhere Nicola tells many things, while ..... 320\nthe crypt of the treasure is visited ..... 320\nThird ..... 326\nWhere Adso, listening to the \"Dies irae\", has a dream ..... 326\nor vision, so to speak ..... 326\nAfter Third ..... 334\nWhere William explains Adso's dream ..... 334\nSixth ..... 336\nWhere the story of the librarians is reconstructed and some ..... 336\nmore news is had about the mysterious book ..... 336\nNinth ..... 340\nWhere the Abbot refuses to listen to William, speaks of the ..... 340\nlanguage of gems and expresses the desire that no more ..... 340\ninvestigation be made into those sad events ..... 340\nBetween Vespers and Compline ..... 347\nWhere in brief are told of long hours of bewilderment ..... 347\nAfter Compline ..... 349\nWhere, almost by chance, William discovers the secret ..... 349\nto enter the finis Africae ..... 349\nSeventh Day ..... 353\nNight ..... 354\nWhere, to summarize the prodigious revelations of which here ..... 354\nis spoken, the title should be as long as the chapter, ..... 354\nwhich is contrary to custom ..... 354\nNight ..... 366\nWhere the ecpyrosis occurs and because of too much virtue ..... 366\nthe forces of hell prevail ..... 366\nLast Folio ..... 376\nPostils ..... 381\nto \"The Name of the Rose\" ..... 381\n1983 ..... 381",
+            "translated": "Praises ..... 318\nWhere a new cellarer is elected but not ..... 318\na new librarian ..... 318\nFirst ..... 320\nWhere Nicola tells many things, while ..... 320\nthe crypt of the treasure is visited ..... 320\nThird ..... 326\nWhere Adso, listening to the \"Dies irae\", has a dream ..... 326\nor vision, as one might say ..... 326\nAfter Third ..... 334\nWhere William explains Adso's dream ..... 334\nSixth ..... 336\nWhere the story of the librarians is reconstructed and some ..... 336\nmore news is had about the mysterious book ..... 336\nNinth ..... 340\nWhere the Abbot refuses to listen to William, speaks of the ..... 340\nlanguage of gems and expresses the desire that no more ..... 340\ninvestigation be made into those sad events ..... 340\nBetween Vespers and Compline ..... 347\nWhere in brief are told of long hours of bewilderment ..... 347\nAfter Compline ..... 349\nWhere, almost by chance, William discovers the secret ..... 349\nto enter the finis Africae ..... 349\nSeventh Day ..... 353\nNight ..... 354\nWhere, to summarize the prodigious revelations of which here ..... 354\nis spoken, the title should be as long as the chapter, ..... 354\nwhich is contrary to custom ..... 354\nNight ..... 366\nWhere the ecpyrosis occurs and because of too much virtue ..... 366\nthe forces of hell prevail ..... 366\nLast Folio ..... 376\nPostscripts ..... 381\nto \"The Name of the Rose\" ..... 381\n1983 ..... 381",
             "content_type": "whole"
         },
         {
@@ -42,22 +42,22 @@
         },
         {
             "original": "Ludovico il Bavaro assedia Pisa e si dispone a scendere verso Roma, il papa è ad Avignone e insiste per avere al suo cospetto Michele da Cesena, generale dei francescani, i quali qualche anno prima hanno proclamato a Perugia che Cristo non ha avuto proprietà alcuna.",
-            "translated": "Ludwig of Bavaria besieges Pisa and prepares to march towards Rome, the pope is in Avignon and insists on having Michael of Cesena, the general of the Franciscans, before him, who a few years earlier proclaimed in Perugia that Christ had no property at all.",
+            "translated": "Louis the Bavarian besieges Pisa and prepares to march towards Rome, the pope is in Avignon and insists on having Michael of Cesena, the general of the Franciscans, before him, who a few years earlier had proclaimed in Perugia that Christ had no property at all.",
             "content_type": "split"
         },
         {
             "original": "Dottrina eretica, come eretici sono i fraticelli, i cui toghi illuminano l'Italia e la Francia, come eretiche erano le bande armate di fra Dolcino, debellato e bruciato da due decenni.",
-            "translated": "Heresy, as the heretics are the Fraticelli, whose robes illuminate Italy and France, as heretical were the armed bands of Fra Dolcino, defeated and burned two decades ago.",
+            "translated": "Heresy, as the heresy of the Fraticelli, whose robes illuminate Italy and France, as heretical were the armed bands of Fra Dolcino, defeated and burned two decades ago.",
             "content_type": "split"
         },
         {
             "original": "Su questo sfondo storico si svolge la vicenda di questo romanzo, ovvero del manoscritto misterioso di Adso da Melk, un novizio benedettino che ha accompagnato in una abbazia dell'alta Italia frate Guglielmo da Baskerville, incaricato di una sottile e imprecisa missione diplomatica.",
-            "translated": "Against this historical backdrop unfolds the story of this novel, that is, the mysterious manuscript of Adso of Melk, a Benedictine novice who accompanied Brother William of Baskerville on a subtle and vague diplomatic mission to an abbey in northern Italy.",
+            "translated": "Against this historical backdrop unfolds the story of this novel, namely the mysterious manuscript of Adso of Melk, a Benedictine novice who accompanied Brother William of Baskerville on a subtle and vague diplomatic mission to an abbey in northern Italy.",
             "content_type": "split"
         },
         {
             "original": "Ex inquisitore, amico di Guglielmo di Occam e di Marsilio da Padova, frate Guglielmo si trova a dover dipanare una serie di misteriosi delitti (sette in sette giorni, perpetrati nel chiuso della cinta abbaziale) che insanguinano una biblioteca labirintica e inaccessibile.",
-            "translated": "Former inquisitor, friend of William of Ockham and Marsilius of Padua, Brother William finds himself having to unravel a series of mysterious murders (seven in seven days, committed within the enclosed abbey walls) that bloodied a labyrinthine and inaccessible library.",
+            "translated": "Former inquisitor, friend of William of Ockham and Marsilius of Padua, Brother William finds himself having to unravel a series of mysterious murders (seven in seven days, committed within the enclosed abbey walls) that stain a labyrinthine and inaccessible library.",
             "content_type": "split"
         },
         {
@@ -67,17 +67,17 @@
         },
         {
             "original": "E per farlo dovrà decifrare indizi di ogni genere, dal comportamento dei santi a quello degli eretici, dalle scritture negromantiche al linguaggio delle erbe, da manoscritti in lingue ignote alle mosse diplomatiche degli uomini del potere.",
-            "translated": "And to do this, he will have to decipher clues of all kinds, from the behavior of saints to that of heretics, from necromantic writings to the language of herbs, from manuscripts in unknown languages to the diplomatic moves of powerful men.",
+            "translated": "And to do this, he will have to decipher clues of all kinds, from the behavior of saints to that of heretics, from necromantic writings to the language of herbs, from manuscripts in unknown languages to the diplomatic moves of men in power.",
             "content_type": "split"
         },
         {
             "original": "Difficile da definire (gothic novel, cronaca medievale, romanzo poliziesco, racconto ideologico a chiave, allegoria) questo romanzo (la cui storia si intreccia con la Storia - perché l'autore, forse mendacemente, asserisce che di suo non vi è una sola parola) può forse essere letto in tre modi.",
-            "translated": "Difficult to define (Gothic novel, medieval chronicle, detective novel, ideological tale with a key, allegory) this novel (whose story intertwines with History - because the author, perhaps mendaciously, claims that not a single word is his own) can perhaps be read in three ways.",
+            "translated": "Difficult to define (gothic novel, medieval chronicle, detective novel, ideological tale with a key, allegory) this novel (whose story intertwines with History - because the author, perhaps mendaciously, claims that not a single word is his own) can perhaps be read in three ways.",
             "content_type": "split"
         },
         {
             "original": "La prima categoria di lettori sarà avvinta dalla trama e dai colpi di scena, e accetterà anche le lunghe discussioni libresche, e i dialoghi filosofici, perché avvertirà che proprio in quelle pagine svagate si annidano i segni, le tracce, i sintomi rivelatori.",
-            "translated": "The first category of readers will be captivated by the plot and the plot twists, and will also accept the lengthy bookish discussions and philosophical dialogues, because they will sense that it is precisely in those leisurely pages that the signs, the traces, the revealing symptoms lie.",
+            "translated": "The first category of readers will be captivated by the plot and the twists, and will also accept the lengthy literary discussions and philosophical dialogues, because they will sense that it is precisely in those leisurely pages that the signs, the traces, the revealing symptoms are hidden.",
             "content_type": "split"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
             "original": "Se ha scritto un romanzo è perché ha scoperto, in età matura, che di ciò di cui non si può teorizzare, si deve narrare.",
-            "translated": "If she has written a novel, it is because she discovered, in mature age, that what cannot be theorized about, must be narrated.",
+            "translated": "If he has written a novel, it is because he discovered, in mature age, that what cannot be theorized about, must be narrated.",
             "content_type": "split"
         },
         {
@@ -132,12 +132,12 @@
         },
         {
             "original": "Il 16 agorto 1968 mi fu messo tra le mani un libro dovuto alla penna di tale abate Vallet, Le manuscript de Dom Adson de Melk, traduit en français d'après l'édition de Dom J. Mabillon (Aux Presses de l'Abbaye de la Source, Paris, 1842).",
-            "translated": "On August 16, 1968, I was given a book written by a certain Abbot Vallet, \"The Manuscript of Brother Adso of Melk, translated into French according to the edition of Dom J. Mabillon\" (Published by the Abbey of the Source Press, Paris, 1842).",
+            "translated": "On August 16, 1968, I was given a book written by a certain Abbot Vallet, \"The Manuscript of Brother Adso of Melk, translated into French according to the edition of Dom J. Mabillon\" (Published by the Presses of the Abbey of the Source, Paris, 1842).",
             "content_type": "split"
         },
         {
             "original": "Il libro, corredato da indicazioni storiche invero assai povere, asseriva di riprodurre fedelmente un manoscritto del XIV secolo, a sua volta trovato nel monastero di Melk dal grande erudito secentesco, a cui tanto si deve per la storia dell'ordine benedettino.",
-            "translated": "The book, accompanied by historical notes that were indeed quite poor, claimed to faithfully reproduce a manuscript from the 14th century, which in turn was found in the monastery of Melk by the great 17th-century scholar, to whom so much is owed for the history of the Benedictine order.",
+            "translated": "The book, accompanied by historical notes that were indeed rather poor, claimed to faithfully reproduce a manuscript from the 14th century, which in turn was found in the monastery of Melk by the great 17th-century scholar, to whom so much is owed for the history of the Benedictine order.",
             "content_type": "split"
         },
         {
@@ -157,12 +157,12 @@
         },
         {
             "original": "In un clima mentale di grande eccitazione leggevo, affascinato, la terribile storia di Adso da Melk, e tanto me ne lasciai assorbire che quasi di getto ne stesi una traduzione, su alcuni grandi quaderni della Papéterie Joseph Gibert, su cui è tanto piacevole scrivere se la penna è morbida.",
-            "translated": "In a state of great mental excitement, I was reading, fascinated, the terrible story of Adso of Melk, and I was so absorbed by it that I almost spontaneously wrote down a translation on some large notebooks from Papéterie Joseph Gibert, on which it is so pleasant to write if the pen is soft.",
+            "translated": "In a state of great mental excitement, I was reading, fascinated, the terrible story of Adso of Melk, and I was so absorbed by it that I almost spontaneously wrote a translation of it, on some large notebooks from Papéterie Joseph Gibert, on which it is so pleasant to write if the pen is soft.",
             "content_type": "split"
         },
         {
             "original": "E così facendo arrivammo nei pressi di Melk, dove ancora, a picco su un'ansa del fiume, si erge il bellissimo Stift più volte restaurato nei secoli.",
-            "translated": "And in this way we arrived near Melk, where still, perched on a bend of the river, stands the beautiful abbey, restored many times over the centuries.",
+            "translated": "And in this way we arrived near Melk, where still, towering above a bend in the river, stands the beautiful abbey, restored many times over the centuries.",
             "content_type": "split"
         },
         {
@@ -177,12 +177,12 @@
         },
         {
             "original": "Mi rimase così una serie di quaderni manoscritti di mio pugno, e un gran vuoto nel cuore.",
-            "translated": "I was left with a series of notebooks handwritten by myself, and a great void in my heart.",
+            "translated": "I was left with a series of handwritten notebooks in my own handwriting, and a great void in my heart.",
             "content_type": "split"
         },
         {
             "original": "Alcuni mesi dopo a Parigi decisi di andare a fondo nella mia ricerca.",
-            "translated": "Some months later in Paris I decided to delve deeper into my research.",
+            "translated": "Some months later in Paris, I decided to delve deeper into my research.",
             "content_type": "split"
         },
         {
@@ -192,7 +192,7 @@
         },
         {
             "original": "«Vetera analecta, sive collectio veterum aliquot opera et opusculorum omnis generis, carminum, epistolarum, diplomaton, epitaphiorum, et, cum itinere germanico, adaptationibus aliquot disquisitionibus R.P.D. Joannis Mabillon, Presbiteri ac Monachi Ord.",
-            "translated": "\"Ancient Analects, or a collection of various ancient works and treatises of all kinds, poems, letters, charters, epitaphs, and, with a German journey, some adaptations and dissertations by the Reverend Father D. Jean Mabillon, Priest and Monk of the Order\"",
+            "translated": "\"Ancient Analects, or a Collection of Various Ancient Works and Treatises of All Kinds, Poems, Letters, Diplomas, Epitaphs, and, with a German Journey, Some Adaptations and Dissertations by the Reverend Father Dom Jean Mabillon, Priest and Monk of the Order\"",
             "content_type": "split"
         },
         {
@@ -207,7 +207,7 @@
         },
         {
             "original": "Nova Editio cui accessere Mabilonii vita et aliquot opuscula, scilicet Dissertatio de Pane Eucharistico, Azymo et Fermentatio, ad Eminentiss.",
-            "translated": "New Edition to which are added Mabilon's life and several small works, namely Dissertation on the Eucharistic Bread, Unleavened and Fermentation, for His Most Eminent",
+            "translated": "New Edition to which are added Mabilon's life and several small works, namely Dissertation on the Eucharistic Bread, Azymes and Fermentation, for the Most Eminent",
             "content_type": "split"
         },
         {
@@ -217,7 +217,7 @@
         },
         {
             "original": "Subjungitur opusculum Eldefonsi Hispaniensis Episcopi de eodem argumentum Et Eusebii Romani ad Theophilum Gallum epistola, De cultu sanctorum ignotorum, Parisiis, apud Levesque, ad Pontem S. Michaelis, MDCCXXI, cum privilegio Regis.",
-            "translated": "The following work is appended: the treatise of Eldefonso, Bishop of Hispania, on the same subject, and the letter of Eusebius of Rome to Theophilus Gallus, On the veneration of unknown saints, Paris, at Levesque, near the Pont Saint-Michel, 1721, with the privilege of the King.",
+            "translated": "The following work is appended: the treatise of Eldefonso, Bishop of Hispalis, on the same subject, and the letter of Eusebius of Rome to Theophilus Gallus, On the veneration of unknown saints, Paris, at Levesque, at the Pont Saint-Michel, 1721, with the privilege of the King.",
             "content_type": "split"
         },
         {
@@ -227,7 +227,7 @@
         },
         {
             "original": "anzitutto l'editore, che era Montalant, ad Ripam P.P. Augustinianorum (prope Pontem S. Michaelis) e poi la data, di due anni posteriore.",
-            "translated": "First of all, the publisher, which was Montalant, to Ripam P.P. Augustinianorum (near the Bridge of St. Michael) and then the date, two years later.",
+            "translated": "Firstly, the publisher, which was Montalant, to Ripam P.P. Augustinianorum (near the Bridge of St. Michael) and then the date, two years later.",
             "content_type": "split"
         },
         {
@@ -237,22 +237,22 @@
         },
         {
             "original": "Consultai all'epoca medievalisti illustri come il caro e indimenticabile Etienne Gilson, ma fu",
-            "translated": "I consulted at the time illustrious medievalists such as the dear and unforgettable Etienne Gilson, but it was",
+            "translated": "I consulted medievalists of the time, such as the dear and unforgettable Etienne Gilson, but it was",
             "content_type": "split"
         },
         {
             "original": "chiaro che gli unici Vetera Analecta erano quelli che avevo visto a Sainte Geneviève.",
-            "translated": "It is clear that the only Vetera Analecta were those that I had seen at Sainte Geneviève.",
+            "translated": "It is clear that the only Vetera Analecta were the ones I had seen at Sainte Geneviève.",
             "content_type": "split"
         },
         {
             "original": "Una puntata all'Abbaye de la Source, che sorge nei dintorni di Passy, e una conversazione con l'amico Dom Arne Lahnestedt mi convinsero altresì che nessun abate Vallet aveva pubblicato libri coi torchi (peraltro inesistenti) dell'abbazia.",
-            "translated": "A visit to the Abbaye de la Source, which stands near Passy, and a conversation with the friend Dom Arne Lahnestedt also convinced me that no Abbot Vallet had published books with the (non-existent) presses of the abbey.",
+            "translated": "A visit to the Abbaye de la Source, which stands near Passy, and a conversation with the friend Dom Arne Lahnestedt also convinced me that no Abbot Vallet had published books with the presses (which, moreover, did not exist) of the abbey.",
             "content_type": "split"
         },
         {
             "original": "E' nota la trascuratezza degli eruditi francesi nel dare indicazioni bibliografiche di qualche attendibilità, ma il caso superava ogni ragionevole pessimismo.",
-            "translated": "It is well known that French scholars are negligent in providing bibliographic indications of any reliability, but this case surpassed every reasonable pessimism.",
+            "translated": "It is well known that French scholars are careless in providing bibliographic indications of any reliability, but this case surpassed every reasonable pessimism.",
             "content_type": "split"
         },
         {
@@ -272,7 +272,7 @@
         },
         {
             "original": "Vi sono momenti magici, di grande stanchezza fisica e intensa eccitazione motoria, in cui si danno visioni di persone conosciute in passato (\"en me retraçant ces details, j'en suis à me demander s'ils sont réels, ou bien si je les ai rêvés\").",
-            "translated": "There are magical moments, of great physical fatigue and intense motor excitement, in which visions of people known in the past appear (\"as I retrace these details, I find myself wondering if they are real, or if I dreamed them\").",
+            "translated": "There are magical moments, of great physical fatigue and intense motor excitement, in which one sees visions of people known in the past (\"as I retrace these details, I find myself wondering if they are real, or if I dreamed them\").",
             "content_type": "split"
         },
         {
@@ -312,12 +312,12 @@
         },
         {
             "original": "avvolte da molti e imprecisi misteri, a cominciare dall'autore, per finire alla collocazione dell'abbazia di cui Adso tace con tenace puntigliosità, così che le congetture permettono di disegnare una zona imprecisa tra Pomposa e Conques, con ragionevoli probabilità che il luogo sorgesse lungo il dorsale appenninico, tra Piemonte, Liguria e Francia (come dire tra Lerici e Turbia).",
-            "translated": "Wrapped in many and imprecise mysteries, starting from the author, up to the location of the abbey of which Adso is silent with tenacious punctiliousness, so that conjectures allow for an imprecise area to be drawn between Pomposa and Conques, with reasonable probabilities that the place stood along the Apennine ridge, between Piedmont, Liguria, and France (as to say between Lerici and Turbie).",
+            "translated": "Wrapped in many and imprecise mysteries, starting from the author, up to the location of the abbey of which Adso is silent with tenacious pedantry, so that conjectures allow us to sketch an imprecise area between Pomposa and Conques, with reasonable probabilities that the place stood along the Apennine ridge, between Piedmont, Liguria, and France (as to say between Lerici and Turbie).",
             "content_type": "split"
         },
         {
             "original": "Quanto all'epoca in cui si svolgono gli eventi descritti, siamo alla fine del novembre 1327;",
-            "translated": "As for the time in which the events described take place, we are at the end of November 1327.",
+            "translated": "As for the time period in which the events described take place, it is the end of November 1327.",
             "content_type": "split"
         },
         {
@@ -337,7 +337,7 @@
         },
         {
             "original": "congetturare che il manoscritto sia stato salato negli ultimi dieci o vent'anni del XIV secolo.",
-            "translated": "To conjecture that the manuscript was created in the last ten or twenty years of the 14th century.",
+            "translated": "to conjecture that the manuscript was created in the last ten or twenty years of the 14th century.",
             "content_type": "split"
         },
         {
@@ -357,7 +357,7 @@
         },
         {
             "original": "non solo Adso scrive in latino, ma è chiaro da tutto l'andamento del testo che la sua cultura (o la cultura dell'abbazia che così chiaramente lo influenza) è molto più datata;",
-            "translated": "Not only does Adso write in Latin, but it is clear from the entire style of the text that his culture (or the culture of the abbey that so clearly influences him) is much older.",
+            "translated": "Not only does Adso write in Latin, but it is clear from the entire course of the text that his culture (or the culture of the abbey that so clearly influences him) is much older.",
             "content_type": "split"
         },
         {
@@ -367,7 +367,7 @@
         },
         {
             "original": "Adso pensa e scrive come un monaco rimasto impermeabile alla rivoluzione del volgare, legato alle pagine ospitate nella biblioteca di cui narra, formatosi su testi patristico-scolastici, e la sua storia (al di là dei riferimenti ed avvenimenti del XIV secolo, che pure Adso registra tra mille perplessità, e sempre per sentito dire) avrebbe potuto essere scritta, quanto a lingua e a citazioni erudite, nel XII o nel XIII secolo.",
-            "translated": "Adso thinks and writes like a monk who remained impervious to the revolution of the vernacular, tied to the pages hosted in the library of which he speaks, educated on patristic-scholastic texts, and his story (beyond the references and events of the 14th century, which Adso nevertheless records with a thousand perplexities, and always second-hand) could have been written, as far as language and learned quotations go, in the 12th or 13th century.",
+            "translated": "Adso thinks and writes like a monk who remained impervious to the revolution of the vernacular, tied to the pages hosted in the library of which he speaks, educated on patristic-scholastic texts, and his story (beyond the references and events of the 14th century, which Adso nonetheless records with a thousand perplexities, and always second-hand) could have been written, as far as language and erudite quotations go, in the 12th or 13th century.",
             "content_type": "split"
         },
         {
@@ -382,7 +382,7 @@
         },
         {
             "original": "E' certo che Adso lo conoscesse, ma rimane il fatto che egli ne cita dei brani che riecheggiano troppo letteralmente vuoi ricette di Paracelso vuoi chiare interpolazioni di un'edizione dell'Alberto di sicura epoca Tudor.",
-            "translated": "It's certain that Adso knew it, but it remains a fact that he quotes passages that echo too literally, whether recipes from Paracelsus or clear interpolations from an edition of Albertus that is surely from the Tudor era.",
+            "translated": "It's certain that Adso knew it, but it remains a fact that he quotes passages that echo too literally, whether recipes from Paracelsus or clear interpolations from an edition of the Albertus of sure Tudor era.",
             "content_type": "split"
         },
         {
@@ -397,7 +397,7 @@
         },
         {
             "original": "Infine, dovevo conservare in latino i passaggi che lo stesso abate Vallet non ritenne opportuno tradurre, forse per conservare l'aria del tempo?",
-            "translated": "Finally, I had to preserve in Latin the passages that Abbot Vallet himself did not deem it appropriate to translate, perhaps to preserve the air of the times?",
+            "translated": "Finally, I had to preserve in Latin the passages that Abbot Vallet himself did not deem it appropriate to translate, perhaps to preserve the flavor of the time?",
             "content_type": "split"
         },
         {
@@ -432,7 +432,7 @@
         },
         {
             "original": "aggregationis seu liber secretorum Alberti Magni, Londinium, juxta pontem qui vulgariter dicitur Flete brigge, MCCCCLXXXV.",
-            "translated": "The book of aggregation or the secret book of Albertus Magnus, London, near the bridge commonly called Fleet Bridge, 1485.",
+            "translated": "The Book of the Secret of Secrets of Albertus Magnus, London, near the bridge commonly called Fleet Bridge, 1485.",
             "content_type": "split"
         },
         {
@@ -442,7 +442,7 @@
         },
         {
             "original": "Secrets merveilleux de la Magie Naturelle et Cabalistique du Petit Albert, A Lyon, ibidem, MDCCXXIX.",
-            "translated": "Secrets of the Marvelous Natural and Cabalistic Magic of the Little Albert, In Lyon, ibidem, 1729.",
+            "translated": "Secrets of the Wonderful Natural and Cabalistic Magic of the Little Albert, In Lyon, ibidem, 1729.",
             "content_type": "split"
         },
         {
@@ -452,7 +452,7 @@
         },
         {
             "original": "Diciamo:",
-            "translated": "We say:",
+            "translated": "Let's say:",
             "content_type": "split"
         },
         {
@@ -462,7 +462,7 @@
         },
         {
             "original": "O, se si vuole, un modo per liberarmi da numerose e antiche ossessioni.\n\nTrascrivo senza preoccupazioni di attualità.",
-            "translated": "Oh, if one wishes, a way to free myself from numerous and ancient obsessions.\n\nI transcribe without concerns of timeliness.",
+            "translated": "Oh, if you wish, a way to free myself from numerous and ancient obsessions.\n\nI transcribe without concerns of topicality.",
             "content_type": "split"
         },
         {
@@ -477,7 +477,7 @@
         },
         {
             "original": "E così ora mi sento libero di raccontare, per semplice gusto fabulatorio, la storia di Adso da Melk, e provo conforto e consolazione nel ritrovarla così incommensurabilmente lontana nel tempo (ora che la veglia della ragione ha fugato tutti i mostri che il suo sonno aveva generato), così gloriosamente priva di rapporto coi tempi nostri, intemporalmente estranea alle nostre speranze e alle nostre sicurezze.",
-            "translated": "And so now I feel free to tell, for the simple pleasure of storytelling, the story of Adso of Melk, and I find comfort and consolation in finding it so incommensurably distant in time (now that the vigil of reason has banished all the monsters that its sleep had generated), so gloriously unrelated to our times, timelessly alien to our hopes and our certainties.",
+            "translated": "And so now I feel free to tell, for the simple pleasure of storytelling, the story of Adso of Melk, and I find comfort and consolation in finding it so immeasurably distant in time (now that the watch of reason has dispelled all the monsters that his sleep had generated), so gloriously unrelated to our times, timelessly alien to our hopes and our certainties.",
             "content_type": "split"
         },
         {
@@ -497,7 +497,7 @@
         },
         {
             "original": "# Nota\n\nIl manoscritto di Adso è diviso in sette giornate e ciascuna giornata in periodi corrispondenti alle ore liturgiche. I sottotitoli, in terza persona, sono stati probabilmente aggiunti dal Vallet. Ma poiché sono utili a orientare il lettore, né quest'uso si discosta da quello di molta letteratura in volgare di quel tempo, non ho ritenuto opportuno eliminarli.\n\nUna certa perplessità mi hanno dato i riferimenti di Adso alle ore canoniche, perché non solo la loro individuazione varia a seconda delle località e delle stagioni, ma con ogni probabilità nel XIV secolo non ci si atteneva con assoluta precisione alle indicazioni fissate da san Benedetto nella regola.\n\nTuttavia, a orientamento del lettore, deducendo in parte dal testo e in parte confrontando la regola originaria con la descrizione della vita monastica data da Edouard Schneider in Les heures bénédictines (Paris, Grasset, 1925), credo ci si possa attenere alla seguente valutazione:\n\n|  Mattutino | (che talora Adso chiama anche con l'antica espressione di Vigiliae).  |\n| --- | --- |\n|   | Tra le 2.30 e le 3 di notte.  |\n|  Laudi | (che nella tradizione più antica erano dette Matutini). Tra le 5 e le 6 di  |\n|   | mattina, in modo da terminare quando albeggia.  |\n|  Prima | Verso le 7.30, poco prima dell'aurora.  |\n|  Terza | Verso le 9.  |\n|  Sesta | Mezzogiorno (in un monastero dove i monaci non lavoravano nei  |\n|   | campi, d'inverno, era anche l'ora del pasto).  |\n|  Nona | Tra le 2 e le 3 pomeridiane.  |\n|   | Vespro. Verso le 4.30, al tramonto (la regola prescrive di far cena  |\n|   | quando ancora non è scesa la tenebra).  |\n|  Compieta | Verso le 6 (entro le 7 i monaci vanno a coricarsi).  |\n\nIl computo si basa sul fatto che nell'Italia settentrionale, alla fine di novembre, il sole si leva intorno alle 7.30 e tramonta intorno alle 4.40 pomeridiane.",
-            "translated": "# Note\n\nAdso's manuscript is divided into seven days, and each day into periods corresponding to the liturgical hours. The subtitles, in the third person, were probably added by Vallet. But since they are useful for guiding the reader, and this use does not differ from that of much vernacular literature of that time, I did not deem it appropriate to eliminate them.\n\nA certain perplexity was caused by Adso's references to the canonical hours, because not only does their identification vary according to locations and seasons, but with every probability in the 14th century they did not adhere with absolute precision to the indications fixed by Saint Benedict in the rule.\n\nHowever, to guide the reader, partly deducing from the text and partly comparing the original rule with the description of monastic life given by Edouard Schneider in Les heures bénédictines (Paris, Grasset, 1925), I believe one can adhere to the following evaluation:\n\n| Matins | (which Adso sometimes also calls by the ancient expression of Vigils). |\n| --- | --- |\n|   | Between 2:30 and 3 at night.  |\n| Lauds | (which in the oldest tradition were called Matins). Between 5 and 6 in the morning, so as to end when it dawns.  |\n| Prime | Around 7:30, just before dawn.  |\n| Terce | Around 9.  |\n| Sext | Noon (in a monastery where the monks did not work in the fields, in winter, it was also the time for the meal).  |\n| None | Between 2 and 3 in the afternoon.  |\n|   | Vespers. Around 4:30, at sunset (the rule prescribes to have dinner when darkness has not yet fallen).  |\n| Compline | Around 6 (by 7 the monks go to bed).  |\n\nThe calculation is based on the fact that in northern Italy, at the end of November, the sun rises around 7:30 and sets around 4:40 in the afternoon.",
+            "translated": "# Note\n\nAdso's manuscript is divided into seven days, and each day into periods corresponding to the liturgical hours. The subtitles, in the third person, were probably added by Vallet. But since they are useful for guiding the reader, and this use does not differ from that of much vernacular literature of that time, I did not deem it appropriate to remove them.\n\nA certain perplexity was caused by Adso's references to the canonical hours, because not only does their identification vary according to locations and seasons, but with every probability in the 14th century, the indications fixed by Saint Benedict in the rule were not followed with absolute precision.\n\nHowever, to guide the reader, partly deducing from the text and partly comparing the original rule with the description of monastic life given by Edouard Schneider in Les heures bénédictines (Paris, Grasset, 1925), I believe we can adhere to the following evaluation:\n\n|  Matins | (which Adso sometimes also calls by the ancient expression Vigils).  |\n| --- | --- |\n|   | Between 2:30 and 3 at night.  |\n|  Lauds | (which in the older tradition were called Matins). Between 5 and 6 in the  |\n|   | morning, so as to end when it begins to dawn.  |\n|  Prime | Around 7:30, just before dawn.  |\n|  Terce | Around 9.  |\n|  Sext | Noon (in a monastery where the monks did not work in the  |\n|   | fields, in winter, it was also the time for the meal).  |\n|  None | Between 2 and 3 in the afternoon.  |\n|   | Vespers. Around 4:30, at sunset (the rule prescribes having supper  |\n|   | when darkness has not yet fallen).  |\n|  Compline | Around 6 (by 7 the monks go to bed).  |\n\nThe calculation is based on the fact that in northern Italy, at the end of November, the sun rises around 7:30 and sets around 4:40 in the afternoon.",
             "content_type": "whole"
         },
         {
@@ -512,12 +512,12 @@
         },
         {
             "original": "Questo era in principio presso Dio e compito del monaco fedele sarebbe ripetere ogni giorno con salmodiante umiltà l'unico immodificabile evento di cui si possa asserire l'incontrovertibile verità.",
-            "translated": "This was in the beginning with God and the task of the faithful monk would be to repeat every day with psalmodic humility the single unchangeable event of which one can assert the incontrovertible truth.",
+            "translated": "This was in the beginning with God and the task of the faithful monk would be to repeat every day with psalmodic humility the single unchangeable event of which one can assert the undeniable truth.",
             "content_type": "split"
         },
         {
             "original": "Ma videmus nunc per speculum et in aenigmate e la verità, prima che faccia a faccia, si manifesta a tratti (ahi, quanto illeggibili) nell'errore del mondo, così che dobbiamo compitarne i fedeli segnacoli, anche là dove ci appaiono oscuri e quasi intessuti di una volontà del tutto intesa al male.",
-            "translated": "But now we see through a glass, darkly; and the truth, before it is face to face, is manifested in glimpses (ah, how illegible) in the error of the world, so that we must spell out its faithful signs, even where they appear dark and almost woven with a will entirely intent on evil.",
+            "translated": "But now we see through a glass, darkly; and the truth, before it is face to face, is manifested in glimpses (alas, how illegible) in the error of the world, so that we must spell out its faithful signs, even where they appear dark and almost woven with a will entirely intent on evil.",
             "content_type": "split"
         },
         {
@@ -532,12 +532,12 @@
         },
         {
             "original": "mentre canuto senesco come il mondo, nell'attesa di perdermi nell'abisso senza fondo della divinità silenziosa e deserta, partecipando della luce incorversevole delle intelligenze angeliche, trattenuto ormai col mio corpo greve e malato in questa cella del caro monastero di Melk, mi accingo a lasciare su questo vello testimonianza degli eventi mirabili e tremendi a cui in gioventù mi accadde di assistere, ripetendo verbatim quanto vidi e udii, senza azzardarmi a trarne un disegno, come a lasciare a coloro che verranno (se l'Anticristo non li precederà) segni di segni, perché su di essi si eserciti la preghiera della decifrazione.",
-            "translated": "While I grow old and gray like the world, awaiting to lose myself in the bottomless abyss of the silent and deserted divinity, partaking of the unchanging light of angelic intelligences, now held back by my heavy and sick body in this cell of the dear monastery of Melk, I am about to leave on this parchment a testimony of the wondrous and terrible events to which I happened to witness in my youth, repeating verbatim what I saw and heard, without daring to draw a design from it, as to leave to those who will come (if the Antichrist does not precede them) signs of signs, so that on them the prayer of deciphering may be exercised.",
+            "translated": "While I grow old and gray like the world, awaiting to lose myself in the bottomless abyss of the silent and deserted divinity, partaking of the unchanging light of angelic intelligences, now held back by my heavy and sick body in this cell of the dear monastery of Melk, I am about to leave on this parchment a testimony of the wondrous and terrible events to which I happened to bear witness in my youth, repeating verbatim what I saw and heard, without daring to draw a design from it, as to leave to those who will come (if the Antichrist does not precede them) signs of signs, so that they may exercise the prayer of deciphering upon them.",
             "content_type": "split"
         },
         {
             "original": "Il Signore mi conceda la grazia di essere testimone trasparente degli accadimenti che ebbero luogo all'abbazia di cui è bene e pio si taccia ormai anche il nome, al finire dell'anno del Signore 1327 in cui l'imperatore Ludovico scese in Italia per ricostituire la dignità del sacro romano impero, giusta i disegni dell'Altissimo e a confusione dell'infame usurpatore simoniaco ed eresiarca che in Avignone recò vergogna al nome santo dell'apostolo (dico l'anima peccatrice di Giacomo di Cahors, che gli empi onorarono come Giovanni XXII).",
-            "translated": "May the Lord grant me the grace to be a transparent witness to the events that took place at the abbey, of which it is now good and pious to keep even the name silent, at the end of the year of our Lord 1327, when the Emperor Louis came to Italy to restore the dignity of the Holy Roman Empire, according to the designs of the Most High and to the confusion of the infamous simoniac and heretical usurper who brought shame to the holy name of the apostle in Avignon (I speak of the sinful soul of Jacques d'Euse, whom the wicked honored as John XXII).",
+            "translated": "May the Lord grant me the grace to be a transparent witness to the events that took place at the abbey, of which it is now also good and pious to keep silent even the name, at the end of the year of the Lord 1327, when the Emperor Louis descended into Italy to restore the dignity of the Holy Roman Empire, according to the designs of the Most High and to the confusion of the infamous simoniac and heretical usurper who brought shame to the holy name of the apostle in Avignon (I speak of the sinful soul of Jacques d'Euse, whom the wicked honored as John XXII).",
             "content_type": "split"
         },
         {
@@ -567,7 +567,7 @@
         },
         {
             "original": "Come impedire che il Caput Mundi ridiventasse, e giustamente, la meta di chi volesse indossare la corona del sacro romano impero e restaurare la dignità di quel dominio temporale che già era stato dei cesari?",
-            "translated": "How to prevent the Caput Mundi from becoming, and rightly so, the destination of those who wanted to wear the crown of the Holy Roman Empire and restore the temporal dignity of that dominion that had once been the Caesars'?",
+            "translated": "How to prevent the Caput Mundi from becoming, and rightly so, the destination of those who wanted to wear the crown of the Holy Roman Empire and restore the temporal dignity of that dominion which had once been that of the Caesars?",
             "content_type": "split"
         },
         {
@@ -577,7 +577,7 @@
         },
         {
             "original": "Ma il giorno stesso, sull'opposta riva del Meno, il conte palatino del Reno e l'arcivescovo di Colonia avevano eletto alla stessa dignità Federico d'Austria.",
-            "translated": "But on the very same day, on the opposite bank of the Main, the Count Palatine of the Rhine and the Archbishop of Cologne had elected to the same dignity Frederick of Austria.",
+            "translated": "But on the same day, on the opposite bank of the Main, the Count Palatine of the Rhine and the Archbishop of Cologne had elected Frederick of Austria to the same dignity.",
             "content_type": "split"
         },
         {
@@ -592,7 +592,7 @@
         },
         {
             "original": "Due anni dopo veniva eletto ad Avignone il nuovo papa, Giacomo di Cahors, vecchio di settantadue anni, col nome appunto di Giovanni XXII, e voglia il cielo che mai più alcun pontefice assuma un nome ormai così inviso ai buoni.",
-            "translated": "Two years later, the new pope, Jacques Duèse of Cahors, aged seventy-two, was elected in Avignon, taking the name John XXII, and may heaven will that no future pope ever takes a name now so disliked by the good.",
+            "translated": "Two years later, the new pope, Giacomo di Cahors, aged seventy-two, was elected in Avignon, taking the name of John XXII, and may heaven will that no pope ever again takes a name now so disliked by the good.",
             "content_type": "split"
         },
         {
@@ -627,7 +627,7 @@
         },
         {
             "original": "Fossero queste o altre le ragioni che lo muovevano, Giovanni condannò nel 1323 le proposizioni dei francescani con la decretale Cum inter nonnullos.",
-            "translated": "Were these or other the reasons that moved him, Giovanni condemned in 1323 the propositions of the Franciscans with the decretal Cum inter nonnullos.",
+            "translated": "Were these or other reasons that moved him, Giovanni condemned in 1323 the propositions of the Franciscans with the decretal Cum inter nonnullos.",
             "content_type": "split"
         },
         {
@@ -637,12 +637,12 @@
         },
         {
             "original": "Affermando la povertà di Cristo essi in qualche modo rinvigorivano le idee dei teologi imperiali, e cioè di Marsilio da Padova e Giovanni di Gianduno.",
-            "translated": "Asserting the poverty of Christ, they in some way strengthened the ideas of the imperial theologians, namely Marsilius of Padua and John of Jandun.",
+            "translated": "Affirming the poverty of Christ, they in some way strengthened the ideas of the imperial theologians, namely Marsilius of Padua and John of Jandun.",
             "content_type": "split"
         },
         {
             "original": "E infine, non molti mesi prima degli eventi di cui sto narrando, Ludovico, che aveva raggiunto un accordo con lo sconfitto Federico, scendeva in Italia, veniva incoronato a Milano, entrava in conflitto coi Visconti, che pure lo avevano accolto con favore, poneva Pisa sotto assedio, nominava vicario imperiale Castruccio, duca di Lucca e Pistoia (e credo facesse male perché non conobbi mai uomo più crudele, tranne forse Uguccione della Faggiola), e ormai si apprestava a scendere a Roma, chiamato da Sciarra Colonna signore del luogo.",
-            "translated": "And finally, not many months before the events of which I am telling, Ludovico, who had reached an agreement with the defeated Frederick, descended into Italy, was crowned in Milan, came into conflict with the Visconti, who had nevertheless welcomed him favorably, laid siege to Pisa, appointed Castruccio, duke of Lucca and Pistoia, as imperial vicar (and I believe he did wrong because I never knew a more cruel man, except perhaps Uguccione della Faggiola), and was now preparing to descend upon Rome, called by Sciarra Colonna, lord of the place.",
+            "translated": "And finally, not many months before the events of which I am narrating, Ludovico, who had reached an agreement with the defeated Frederick, descended into Italy, was crowned in Milan, came into conflict with the Visconti, who had welcomed him favorably, laid siege to Pisa, appointed Castruccio, duke of Lucca and Pistoia, as imperial vicar (and I believe he did wrong because I never knew a more cruel man, except perhaps Uguccione della Faggiola), and was now preparing to descend upon Rome, called by Sciarra Colonna, lord of the place.",
             "content_type": "split"
         },
         {
@@ -662,7 +662,7 @@
         },
         {
             "original": "E per consiglio di Marsilio, che aveva preso a benvolermi, decisero di pormi accanto a un dotto francescano, frate Guglielmo da Baskerville, il quale stava per iniziare una missione che lo avrebbe portato a toccare città famose e abbazie antichissime.",
-            "translated": "And on the advice of Marsilio, who had taken a liking to me, they decided to place me alongside a learned Franciscan, Brother William of Baskerville, who was about to begin a mission that would take him to famous cities and ancient abbeys.",
+            "translated": "And, on the advice of Marsilio, who had taken a liking to me, they decided to place me alongside a learned Franciscan, Brother William of Baskerville, who was about to begin a mission that would take him to famous cities and ancient abbeys.",
             "content_type": "split"
         },
         {
@@ -672,7 +672,7 @@
         },
         {
             "original": "Io non sapevo allora cosa frate Guglielmo cercasse, e a dire il vero non lo so ancor oggi, e presumo non lo sapesse neppure lui, mosso com'era dall'unico desiderio della verità, e dal sospetto - che sempre gli vidi nutrire - che la verità non fosse quella che gli appariva nel momento presente.",
-            "translated": "I did not know then what Brother William was seeking, and to tell the truth, I do not know even today, and I presume he did not know either, driven as he was by the sole desire for the truth, and by the suspicion - which I always saw him harbor - that the truth was not what appeared to him in the present moment.",
+            "translated": "I did not know then what Brother William was seeking, and to tell the truth, I do not know even today, and I presume he did not know either, driven as he was by the single desire for the truth, and by the suspicion - which I always saw him harbor - that the truth was not what appeared to him in the present moment.",
             "content_type": "split"
         },
         {
@@ -687,7 +687,7 @@
         },
         {
             "original": "Fu piuttosto ascoltando brani di conversazioni, che egli ebbe con gli abati dei monasteri in cui ci arrestammo via via, che mi feci qualche idea sulla natura del suo compito.",
-            "translated": "It was rather by listening to snippets of conversations that he had with the abbots of the monasteries where we stopped along the way that I got some idea about the nature of his task.",
+            "translated": "It was rather by listening to snippets of conversations that he had with the abbots of the monasteries where we stopped along the way that I got some idea of the nature of his task.",
             "content_type": "split"
         },
         {
@@ -697,12 +697,12 @@
         },
         {
             "original": "Eravamo diretti verso settentrione, ma il nostro viaggio non procedette in linea retta e ci arrestammo in varie abbazie.",
-            "translated": "We were heading north, but our journey did not proceed in a straight line and we stopped at various abbeys.",
+            "translated": "We were headed north, but our journey did not proceed in a straight line and we stopped at various abbeys.",
             "content_type": "split"
         },
         {
             "original": "Accadde così che piegammo verso occidente mentre la nostra meta ultima stava a oriente, quasi seguendo la linea montana che da Pisa porta in direzione dei cammini di San Giacomo, soffermandoci in una terra che i terribili avvenimenti che poi vi avvennero mi sconsigliano di identificare meglio, ma i cui signori erano fedeli all'impero e dove gli abati del nostro ordine di comune accordo si opponevano al papa eretico e corrotto.",
-            "translated": "It happened that we turned westward while our ultimate destination lay to the east, almost following the mountain range that from Pisa leads in the direction of the paths of Saint James, stopping in a land that the terrible events that then occurred there advise me not to identify more precisely, but whose lords were faithful to the empire and where the abbots of our order, by common consent, opposed the heretical and corrupt pope.",
+            "translated": "It happened that we turned westward while our final destination lay to the east, almost following the mountain range that leads from Pisa towards the paths of Saint James, stopping in a land that the terrible events that later occurred there advise me not to identify more precisely, but whose lords were loyal to the empire and where the abbots of our order, by common consent, opposed the heretical and corrupt pope.",
             "content_type": "split"
         },
         {
@@ -712,12 +712,12 @@
         },
         {
             "original": "Nelle pagine che seguono non vorrò indulgere a descrizioni di persone - se non quando l'espressione di un volto, o un gesto, non appariranno come segni di un muto ma eloquente linguaggio - perché, come dice Boezio, nulla è più fugace della forma esteriore, che appassisce e muta come i fiori di campo all'apparire dell'autunno, e che senso avrebbe oggi dire dell'abate Abbone che ebbe l'occhio severo e le guance pallide, quando ormai lui e coloro che lo attorniavano sono polvere e della polvere il loro corpo ha ormai il grigiore mortifero (solo l'animo, lo voglia Iddio, risplendendo di una luce che non si spegnerà mai più)?",
-            "translated": "In the following pages, I will not indulge in descriptions of people - except when the expression of a face, or a gesture, will appear as signs of a silent but eloquent language - because, as Boethius says, nothing is more fleeting than the outward form, which withers and changes like the wildflowers at the appearance of autumn, and what sense would it make today to say about Abbot Abbo that he had a severe eye and pale cheeks, when he and those who surrounded him are now dust and their bodies have the deadly gray of dust (only the soul, may God will, shining with a light that will never go out again)?",
+            "translated": "In the following pages, I will not indulge in descriptions of people - except when the expression of a face, or a gesture, will appear as signs of a silent but eloquent language - because, as Boethius says, nothing is more fleeting than the outward form, which withers and changes like the wildflowers at the appearance of autumn, and what would be the point today of saying that Abbot Abbo had a severe eye and pale cheeks, when he and those who surrounded him are now dust and their bodies have the deadly gray of dust (only the soul, may God will, shining with a light that will never go out again)?",
             "content_type": "split"
         },
         {
             "original": "Ma di Guglielmo vorrei dire, e una volta per tutte, perché di lui mi colpirono anche le singolari fattezze, ed è proprio dei giovani legarsi a un uomo più anziano e più saggio non solo per il fascino della parola e l'acutezza della mente, ma pur anche per la forma superficiale del corpo, che ne risulta carissima, come accade per la figura di un padre, di cui si studiano i gesti, e i corrucci, e se ne spia il sorriso - senza che ombra di lussuria inquini questo modo (forse l'unico purissimo) di amore corporale.",
-            "translated": "But of Guglielmo I would like to say, and once and for all, because his singular features also struck me, and it is indeed for young people to attach themselves to an older and wiser man not only for the charm of speech and the sharpness of mind, but also for the superficial form of the body, which results most precious, as happens with the figure of a father, whose gestures and frowns are studied, and whose smile is watched - without any shadow of lust tainting this way (perhaps the only purest) of bodily love.",
+            "translated": "But of William I would like to say, and once and for all, because of him I was struck by his singular features, and it is indeed for young people to attach themselves to an older and wiser man not only for the charm of speech and the sharpness of mind, but also for the superficial form of the body, which results most dear, as happens with the figure of a father, whose gestures and frowns are studied, and whose smile is watched - without any shadow of lust tainting this way (perhaps the only purest) of bodily love.",
             "content_type": "split"
         },
         {
@@ -727,12 +727,12 @@
         },
         {
             "original": "La gioventù non vuole apprendere più nulla, la scienza è in decadenza, il mondo intero cammina sulla testa, dei ciechi conducono altri ciechi e li fan precipitare negli abissi, gli uccelli si lanciano prima di aver preso il volo, l'asino",
-            "translated": "The youth no longer wants to learn anything, science is in decline, the whole world is walking on its head, the blind lead other blind people and make them plunge into the abyss, the birds take off before they have taken flight, the donkey",
+            "translated": "Youth no longer wants to learn anything, science is in decline, the whole world is walking on its head, the blind lead other blind people and make them plunge into the abyss, birds take off before they have taken flight, the donkey",
             "content_type": "split"
         },
         {
             "original": "suona la lira, i buoi danzano, Maria non ama più la vita contemplativa e Marta non ama più la vita attiva, Lea è sterile, Rachele ha l'occhio carnale, Catone frequenta i lupanari, Lucrezio diventa femmina.",
-            "translated": "The lyre plays, the oxen dance, Maria no longer loves the contemplative life and Marta no longer loves the active life, Lea is barren, Rachel has the fleshly eye, Cato frequents brothels, Lucretius becomes a woman.",
+            "translated": "The lyre plays, the oxen dance, Mary no longer loves the contemplative life and Martha no longer loves the active life, Leah is barren, Rachel has the fleshly eye, Cato frequents brothels, Lucretius becomes a woman.",
             "content_type": "split"
         },
         {
@@ -742,12 +742,12 @@
         },
         {
             "original": "Siano rese grazie a Dio che io a quei tempi acquisii dal mio maestro la voglia di apprendere e il senso della retta via, che si conserva anche quando il sentiero è tortuoso.",
-            "translated": "Thanks be to God that in those times I acquired from my teacher the desire to learn and the sense of the right path, which is preserved even when the path is winding.",
+            "translated": "Thanks be to God that in those times I acquired from my teacher the desire to learn and the sense of the right path, which is also preserved when the path is winding.",
             "content_type": "split"
         },
         {
             "original": "Era dunque l'apparenza fisica di frate Guglielmo tale da attirare l'attenzione dell'osservatore più distratto.",
-            "translated": "It was therefore the physical appearance of Brother William such as to attract the attention of the most distracted observer.",
+            "translated": "It was thus the physical appearance of Brother William such as to attract the attention of the most distracted observer.",
             "content_type": "split"
         },
         {
@@ -782,7 +782,7 @@
         },
         {
             "original": "com'ero, la cosa che di lui subito mi aveva colpito, erano certi ciuffi di peli giallastri che gli uscivano dalle orecchie, e le sopracciglia folte e bionde.",
-            "translated": "As I was, the thing that had immediately struck me about him were certain tufts of yellowish hair that stuck out of his ears, and the thick, blonde eyebrows.",
+            "translated": "As I was, the thing that had immediately struck me about him were certain tufts of yellowish hair that stuck out of his ears, and his thick, blonde eyebrows.",
             "content_type": "split"
         },
         {
@@ -802,7 +802,7 @@
         },
         {
             "original": "In quelle occasioni appariva nei suoi occhi un'espressione vacua e assente, e avrei sospettato che fosse sotto l'impero di qualche sostanza vegetale capace di dar visioni, se la palese temperanza che regolava la sua vita non mi avesse indotto a respingere questo pensiero.",
-            "translated": "On those occasions, a vacant and absent expression appeared in his eyes, and I would have suspected that he was under the influence of some vegetable substance capable of inducing visions, if the obvious temperance that governed his life had not led me to dismiss this thought.",
+            "translated": "On those occasions, a vacant and absent expression appeared in his eyes, and I would have suspected that he was under the influence of some plant substance capable of inducing visions, if the obvious temperance that governed his life had not led me to dismiss this thought.",
             "content_type": "split"
         },
         {
@@ -812,17 +812,17 @@
         },
         {
             "original": "e si poneva a masticarla con volto assorto.",
-            "translated": "And he would start to chew it with an absorbed expression.",
+            "translated": "and he would start to chew it with a absorbed expression.",
             "content_type": "split"
         },
         {
             "original": "Parte ne teneva con sé, e la mangiava nei momenti di maggior tensione (e sovente ne avemmo all'abbazia!).",
-            "translated": "Part of it he kept with him, and he ate it during moments of greatest tension (and we often had such moments at the abbey!).",
+            "translated": "Part of it he kept with him, and he would eat it during the most tense moments (and we often had such moments at the abbey!).",
             "content_type": "split"
         },
         {
             "original": "Quando una volta gli chiesi di che si trattasse, disse sorridendo che un buon cristiano può imparare talora anche dagli infedeli;",
-            "translated": "When I once asked him what it was about, he smiled and said that a good Christian can sometimes even learn from the infidels;",
+            "translated": "When I once asked him what it was about, he said smiling that a good Christian can sometimes even learn from the infidels;",
             "content_type": "split"
         },
         {
@@ -837,7 +837,7 @@
         },
         {
             "original": "anche all'abbazia vegliammo di notte e cademmo stanchi di giorno, né partecipammo regolarmente gli uffici sacri.",
-            "translated": "We also kept watch at night in the abbey and fell tired during the day, nor did we regularly attend the sacred offices.",
+            "translated": "We also kept watch at night in the abbey and fell exhausted during the day, nor did we regularly attend the sacred offices.",
             "content_type": "split"
         },
         {
@@ -847,7 +847,7 @@
         },
         {
             "original": "Qualche volta, come accadde all'abbazia passava tutta la giornata muovendosi per l'orto, esaminando le piante come fossero crisopazi o smeraldi, e lo vidi aggirarsi per la cripta del tesoro guardando uno scrigno tempestato di smeraldi e crisopazi come fosse un cespuglio di stramonio.",
-            "translated": "Sometimes, as happened at the abbey, he would spend the whole day moving about the garden, examining the plants as if they were chrysoprases or emeralds, and I saw him wandering through the treasure crypt looking at a chest inlaid with emeralds and chrysoprases as if it were a thornapple bush.",
+            "translated": "Sometimes, as happened at the abbey, he would spend the whole day moving around the garden, examining the plants as if they were chrysoprases or emeralds, and I saw him wandering through the treasure crypt looking at a chest inlaid with emeralds and chrysoprases as if it were a thornapple bush.",
             "content_type": "split"
         },
         {
@@ -877,7 +877,7 @@
         },
         {
             "original": "Mi parve una risposta dettata da ineducata empiria, ma appresi in seguito che gli uomini della sua terra definiscono spesso le cose in modi in cui pare che la forza illuminante della ragione abbia pochissimo ufficio.",
-            "translated": "It seemed to me a response dictated by uneducated empiricism, but I later learned that the men of his land often define things in ways that seem to have little to do with the enlightening force of reason.",
+            "translated": "It seemed to me a response dictated by uneducated empiricism, but I later learned that the men of his land often define things in ways that seem to have very little to do with the enlightening force of reason.",
             "content_type": "split"
         },
         {
@@ -892,7 +892,7 @@
         },
         {
             "original": "ma anche quando le sue mani toccavano cose fragilissime, come certi codici dalle miniature ancor fresche, o pagine corrose dal tempo e friabili come pane azzimo, egli possedeva, mi parve, una straordinaria delicatezza di tatto, la stessa che egli usava nel toccare le sue macchine.",
-            "translated": "But even when his hands touched very fragile things, such as certain manuscripts with still-fresh miniatures, or pages corroded by time and crumbly like unleavened bread, he seemed to possess an extraordinary tactile delicacy, the same that he used when touching his machines.",
+            "translated": "But even when his hands touched very fragile things, like certain manuscripts with still-fresh miniatures, or pages corroded by time and crumbly like unleavened bread, he seemed to possess an extraordinary delicacy of touch, the same that he used when touching his machines.",
             "content_type": "split"
         },
         {
@@ -902,12 +902,12 @@
         },
         {
             "original": "Le macchine, diceva, sono effetto dell'arte, che è scimmia della natura, e di essa riproducono non le forme ma la stessa operazione.",
-            "translated": "The machines, he said, are the effect of art, which is the ape of nature, and they reproduce not the forms but the very operation.",
+            "translated": "Machines, he said, are the effect of art, which is the ape of nature, and they reproduce not the forms but the very operation.",
             "content_type": "split"
         },
         {
             "original": "Egli mi spiegò così i portenti dell'orologio, dell'astrolabio e del magnete.",
-            "translated": "He explained to me the wonders of the clock, the astrolabe, and the magnet.",
+            "translated": "He explained to me thus the marvels of the clock, the astrolabe, and the magnet.",
             "content_type": "split"
         },
         {
@@ -917,32 +917,32 @@
         },
         {
             "original": "I francescani che avevo conosciuto in Italia e nella mia terra erano uomini semplici, sovente illetterati, e mi stupii con lui della sua sapienza.",
-            "translated": "The Franciscans I had met in Italy and in my homeland were simple men, often uneducated, and I was amazed by his wisdom.",
+            "translated": "The Franciscans that I had met in Italy and in my homeland were simple men, often uneducated, and I was amazed by his wisdom.",
             "content_type": "split"
         },
         {
             "original": "Ma egli mi disse sorridendo che i francescani delle sue isole erano di stampo diverso:",
-            "translated": "But he told me smiling that the Franciscans of his islands were of a different kind:",
+            "translated": "But he told me, smiling, that the Franciscans of his islands were of a different breed:",
             "content_type": "split"
         },
         {
             "original": "«Ruggiero Bacone, che io venero quale maestro, ci ha insegnato che il piano divino passerà un giorno per la scienza delle macchine, che è magìa naturale e santa.",
-            "translated": "Roger Bacon, whom I revere as a master, has taught us that the divine plan will one day come through the science of machines, which is natural and holy magic.",
+            "translated": "Ruggiero Bacon, whom I revere as a master, has taught us that the divine plan will one day come through the science of machines, which is natural and holy magic.",
             "content_type": "split"
         },
         {
             "original": "E un giorno per forza di natura si potranno fare strumenti di navigazione per cui le navi vadano unico homine regente, e ben più rapide di quelle spinte da vela o da remi;",
-            "translated": "And one day, by force of nature, it will be possible to make navigation instruments so that ships can travel with just one man at the helm, and much faster than those driven by sail or oars;",
+            "translated": "And one day, by force of nature, it will be possible to make navigation instruments so that ships can go with a single man at the helm, and much faster than those driven by sail or oars;",
             "content_type": "split"
         },
         {
             "original": "e vi saranno carri «ut sine animale moveantur cum impetu inaestimabili, et instrumenta volandi et homo sedens in medio instrumentis revolvens aliquod ingenium per quod alae artificialiter composita aerem verberent, ad modum avis volantis».",
-            "translated": "And there will be carriages \"that move without animals with an incredible speed, and flying machines and a man sitting in the middle of the machines turning some device by which artificially composed wings beat the air, in the manner of a flying bird.\"",
+            "translated": "And there will be carriages \"that move without animals with an incredible speed, and flying machines and a man sitting in the middle of the machines turning some device by which artificially composed wings beat the air, like a flying bird.\"",
             "content_type": "split"
         },
         {
             "original": "E strumenti piccolissimi che sollevino pesi infiniti e veicoli che permettano di viaggiare sul fondo del mare.",
-            "translated": "They are tiny tools that lift infinite weights and vehicles that allow travel on the seabed.",
+            "translated": "They are tiny tools that can lift infinite weights and vehicles that allow travel on the seabed.",
             "content_type": "split"
         },
         {
@@ -977,7 +977,7 @@
         },
         {
             "original": "idee esistano in tal modo, e non perché possiamo decidere della natura divina, ma proprio perché non possiamo porle alcun limite.",
-            "translated": "ideas exist in such a way, not because we can decide about divine nature, but precisely because we cannot set any limits to them.",
+            "translated": "ideas exist in such a way, and not because we can decide about the divine nature, but precisely because we cannot set any limits to them.",
             "content_type": "split"
         },
         {
@@ -987,12 +987,12 @@
         },
         {
             "original": "ma anche ora che sono vecchio e più saggio di allora non ho definitivamente compreso come egli potesse aver tanta fiducia nel suo amico di Occam e giurare al tempo stesso sulle parole di Bacone, come era solito fare.",
-            "translated": "But even now that I am old and wiser than I was then, I have not yet fully understood how he could have so much trust in his friend Occam and at the same time swear by the words of Bacon, as he used to do.",
+            "translated": "But even now that I am old and wiser than I was then, I have not definitively understood how he could have so much trust in his friend Occam and swear at the same time by the words of Bacon, as he used to do.",
             "content_type": "split"
         },
         {
             "original": "E' pur vero che quelli erano tempi oscuri in cui un uomo saggio doveva pensare cose in contraddizione tra loro.",
-            "translated": "It is true that those were dark times in which a wise man had to think of things in contradiction to each other.",
+            "translated": "It is true that those were dark times in which a wise man had to think of things that contradicted each other.",
             "content_type": "split"
         },
         {
@@ -1017,7 +1017,7 @@
         },
         {
             "original": "Ed è ora che, come noi allora facemmo, a essa si approssimi il mio racconto, e possa la mia mano non tremare nell'accingermi a dire quanto poi accadde.",
-            "translated": "And now it is time that, as we then did, my story should approach it, and may my hand not tremble as I set out to tell what then happened.",
+            "translated": "And now is the time for my story to approach it, as we did then, and may my hand not tremble as I prepare to tell what happened afterward.",
             "content_type": "split"
         },
         {
@@ -1037,12 +1037,12 @@
         },
         {
             "original": "Nella notte aveva nevicato un poco, ma il terreno era coperto di un velo fresco non più alto di tre dita.",
-            "translated": "In the night it had snowed a little, but the ground was covered with a fresh layer of snow no higher than three fingers.",
+            "translated": "In the night it had snowed a little, but the ground was covered with a fresh layer no higher than three fingers.",
             "content_type": "split"
         },
         {
             "original": "Al buio, subito dopo laudi, avevamo ascoltato la messa in un villaggio a valle.",
-            "translated": "In the dark, right after dawn, we had listened to mass in a village down in the valley.",
+            "translated": "In the dark, right after dawn, we had listened to Mass in a village down in the valley.",
             "content_type": "split"
         },
         {
@@ -1067,12 +1067,12 @@
         },
         {
             "original": "Dico che in certi punti, dal basso, sembrava che la roccia si prolungasse verso il cielo, senza soluzione di tinte e di materia, e diventasse a un certo punto mastio e torrione (opera di giganti che avessero gran familiarità e con la terra e col cielo).",
-            "translated": "I say that at certain points, from below, it seemed that the rock extended towards the sky, without a break in color or substance, and became at a certain point a keep and a tower (a work of giants who had great familiarity with both the earth and the sky).",
+            "translated": "I say that in certain points, from below, it seemed that the rock extended towards the sky, without a break in color and substance, and became at a certain point a keep and a tower (work of giants who had great familiarity with both the earth and the sky).",
             "content_type": "split"
         },
         {
             "original": "Tre ordini di finestre dicevano il ritmo trino della sua sopraelevazione, così che ciò che era fisicamente quadrato sulla terra, era spiritualmente triangolare nel cielo.",
-            "translated": "Three rows of windows marked the triple rhythm of its elevation, so that what was physically square on earth was spiritually triangular in heaven.",
+            "translated": "Three rows of windows marked the triple rhythm of its elevation, so that what was physically square on earth was spiritually triangular in the sky.",
             "content_type": "split"
         },
         {
@@ -1092,7 +1092,7 @@
         },
         {
             "original": "Per la mole, e per la forma, l'Edificio mi apparve come più tardi avrei visto nel sud della penisola italiana Castel Ursino o Castel dal Monte, ma per la posizione inaccessibile era di quelli più tremendo, e capace di generare timore nel viaggiatore che vi si avvicinasse a poco a poco.",
-            "translated": "For its size and shape, the Building appeared to me as I would later see in the south of the Italian peninsula Castel Ursino or Castel del Monte, but for its inaccessible position, it was one of the most terrifying, and capable of inspiring fear in the traveler who approached it little by little.",
+            "translated": "For its size and shape, the Building appeared to me as I would later see in the south of the Italian peninsula Castel Ursino or Castel del Monte, but for its inaccessible position it was one of the most terrifying, and capable of inspiring fear in the traveler who approached it little by little.",
             "content_type": "split"
         },
         {
@@ -1112,12 +1112,12 @@
         },
         {
             "original": "Dio sa che non erano fantasmi dell'animo mio immaturo, e che rettamente interpretavo indubitabili presagi iscritti nella pietra, sin dal giorno che i giganti vi posero mano, e prima che la illusa volontà dei monaci ardisse consacrarla alla custodia della parola divina.",
-            "translated": "God knows that they were not ghosts of my immature mind, and that I rightly interpreted undeniable omens inscribed in the stone, from the very day that giants first touched it, and before the deluded will of the monks dared to consecrate it to the guardianship of the divine word.",
+            "translated": "God knows that they were not ghosts of my immature mind, and that I rightly interpreted undeniable omens inscribed in the stone, from the day that giants first touched it, and before the deluded will of the monks dared to consecrate it to the guardianship of the divine word.",
             "content_type": "split"
         },
         {
             "original": "Mentre i nostri muletti arrancavano per l'ultimo tornante della montagna, là dove il cammino principale si diramava a trivio, generando due sentieri laterali, il mio maestro si arrestò per qualche tempo, guardandosi intorno ai lati della strada, e sulla strada, e sopra la strada, dove una serie di pini sempreverdi formava per un breve tratto un tetto naturale, canuto di neve.\n\"Abbazia ricca,\" disse.",
-            "translated": "While our mules struggled up the last bend of the mountain, where the main path forked into a three-way crossroads, generating two side paths, my master stopped for a while, looking around to the sides of the road, and on the road, and above the road, where a series of evergreen pines formed a natural roof for a short stretch, white with snow.\n\n\"Rich abbey,\" he said.",
+            "translated": "While our mules were struggling up the last bend of the mountain, where the main path forked into a three-way crossroads, generating two side paths, my master stopped for a while, looking around to the sides of the road, and on the road, and above the road, where a series of evergreen pines formed a natural roof for a short stretch, white with snow.\n\n\"Rich abbey,\" he said.",
             "content_type": "split"
         },
         {
@@ -1177,7 +1177,7 @@
         },
         {
             "original": "E' troppo intelligente per buttarsi lungo il terreno scosceso...\"\n\"Quando lo avete visto?",
-            "translated": "\"It's too intelligent to throw itself down the steep ground...\"\n\"When did you see it?\"",
+            "translated": "It's too intelligent to throw itself down the steep ground...\"\n\"When did you see it?\"",
             "content_type": "split"
         },
         {
@@ -1187,7 +1187,7 @@
         },
         {
             "original": "\"Non l'abbiamo visto affatto, non è vero Adso?",
-            "translated": "We haven't seen him at all, haven't we Adso?",
+            "translated": "We didn't see him at all, did we, Adso?",
             "content_type": "split"
         },
         {
@@ -1197,7 +1197,7 @@
         },
         {
             "original": "\"Ma se cercate Brunello, l'animale non può che essere là dove io ho detto.",
-            "translated": "But if you are looking for Brunello, the animal cannot be anywhere else but where I said.",
+            "translated": "But if you are looking for Brunello, the animal cannot be anywhere but where I said.",
             "content_type": "split"
         },
         {
@@ -1222,12 +1222,12 @@
         },
         {
             "original": "\"\n\"Suvvia,\" disse Guglielmo, \"è evidente che state cercando Brunello, il cavallo preferito dall'Abate, il miglior galoppatore della vostra scuderia, nero di pelo, alto cinque piedi, dalla coda sontuosa, dallo zoccolo piccolo e rotondo ma dal galoppo assai regolare;",
-            "translated": "\"Come now,\" said William, \"it is obvious that you are looking for Brunello, the Abbot's favorite horse, the best runner in your stable, black in color, five feet tall, with a magnificent tail, small and round hooves but a very regular gallop;\"",
+            "translated": "\"Come now,\" said William, \"it is evident that you are looking for Brunello, the Abbot's favorite horse, the best galloper in your stable, black in color, five feet tall, with a magnificent tail, small and round hooves but a very regular gallop;",
             "content_type": "split"
         },
         {
             "original": "capo minuto, orecchie sottili ma occhi grandi.",
-            "translated": "Head minute, thin ears but big eyes.",
+            "translated": "head minute, ears thin but eyes big.",
             "content_type": "split"
         },
         {
@@ -1237,7 +1237,7 @@
         },
         {
             "original": "\"\n\nIl cellario ebbe un momento di esitazione, poi fece un segno ai suoi e si gettò giù per il sentiero di destra, mentre i nostri muli riprendevano a salire.",
-            "translated": "The cellarer had a moment of hesitation, then he signaled to his men and threw himself down the right path, while our mules resumed climbing.",
+            "translated": "The cellarer had a moment of hesitation, then signaled to his men and rushed down the right path, while our mules resumed their climb.",
             "content_type": "split"
         },
         {
@@ -1247,12 +1247,12 @@
         },
         {
             "original": "e infatti pochi minuti dopo udimmo grida di giubilo, e alla svolta del sentiero riapparvero monaci e famigli riportando il cavallo per il morso.",
-            "translated": "and indeed a few minutes later we heard shouts of joy, and at the bend in the path the monks and servants reappeared leading the horse by the bridle.",
+            "translated": "And indeed, a few minutes later we heard shouts of joy, and at the bend in the path, the monks and servants reappeared, leading the horse by the bridle.",
             "content_type": "split"
         },
         {
             "original": "Ci passarono di fianco continuando a guardarci alquanto sbalorditi e ci precedettero verso l'abbazia.",
-            "translated": "They passed by us, still looking at us quite astonished, and preceded us towards the abbey.",
+            "translated": "They passed by us, still looking at us quite astonished, and went ahead towards the abbey.",
             "content_type": "split"
         },
         {
@@ -1262,16 +1262,1156 @@
         },
         {
             "original": "Infatti avevo avuto modo di accorgermi che il mio maestro, in tutto e per tutto uomo di altissima virtù, indulgeva al vizio della vanità quando si trattava di dar prova del suo acume e, avendone già apprezzato le doti di sottile diplomatico, capii che voleva arrivare alla meta preceduto da una solida fama di uomo sapiente.",
-            "translated": "Indeed, I had noticed that my master, in every way a man of the highest virtue, indulged in the vice of vanity when it came to demonstrating his acumen, and, having already appreciated his subtle diplomatic skills, I understood that he wanted to reach his goal preceded by a solid reputation as a wise man.",
+            "translated": "Indeed, I had noticed that my master, a man of the highest virtue in every way, indulged in the vice of vanity when it came to demonstrating his acumen. Having already appreciated his subtle diplomatic skills, I understood that he wanted to reach his goal preceded by a solid reputation as a wise man.",
             "content_type": "split"
         },
         {
             "original": "\"E ora ditemi,\" alla fine non seppi trattenermi, \"come avete fatto a sapere?\"",
             "translated": "\"Well, and now tell me,\" I finally couldn't help but ask, \"how did you know?\"",
             "content_type": "split"
+        },
+        {
+            "original": "\"Mio buon Adso,\" disse il maestro.",
+            "translated": "\"Adso, my good boy,\" said the master.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"E' tutto il viaggio che ti insegno a riconoscere le tracce con cui il mondo ci parla come un grande libro.",
+            "translated": "It's the whole journey that I teach you to recognize the traces with which the world speaks to us like a great book.",
+            "content_type": "split"
+        },
+        {
+            "original": "Alano delle Isole diceva che\nomnis mundi creatura\nquasi liber et pictura\nnobis est in speculum\ne pensava alla inesausta riserva di simboli con cui Dio, attraverso le sue creature, ci parla della vita eterna.",
+            "translated": "Alano delle Isole said that\nevery creature in the world\nis almost free and like a picture\nfor us as in a mirror\nand he thought of the inexhaustible reserve of symbols with which God, through his creatures, speaks to us about eternal life.",
+            "content_type": "split"
+        },
+        {
+            "original": "Ma l'universo è ancor più loquace di come pensava Alano e non solo parla delle cose ultime (nel qual caso lo fa sempre in modo oscuro) ma anche di quelle prossime, e in questo è chiarissimo.",
+            "translated": "But the universe is even more talkative than Alan thought and it does not only speak of ultimate things (in which case it always does so obscurely) but also of those nearby, and in this it is very clear.",
+            "content_type": "split"
+        },
+        {
+            "original": "Quasi mi vergogno a ripeterti quel che dovresti sapere.",
+            "translated": "I'm almost ashamed to repeat what you should already know.",
+            "content_type": "split"
+        },
+        {
+            "original": "Al trivio, sulla neve ancora fresca, si disegnavano con molta chiarezza le impronte degli zoccoli di un cavallo, che puntavano verso il sentiero alla nostra sinistra.",
+            "translated": "At the crossroads, on the still fresh snow, the hoofprints of a horse were clearly visible, pointing towards the path to our left.",
+            "content_type": "split"
+        },
+        {
+            "original": "A bella e uguale distanza l'uno dall'altro, quei segni dicevano che lo zoccolo era piccolo e rotondo, e il galoppo di grande regolarità - così che ne dedussi la natura del cavallo, e il fatto che esso non correva disordinatamente come fa un animale imbizzarrito.",
+            "translated": "At an equal and uniform distance from each other, those marks indicated that the hoof was small and round, and the gallop of great regularity - so that I deduced the nature of the horse, and the fact that it did not run disorderly as a frightened animal would.",
+            "content_type": "split"
+        },
+        {
+            "original": "Là dove i pini formavano come una tettoia naturale, alcuni rami erano stati spezzati di fresco giusto all'altezza di cinque piedi.",
+            "translated": "There where the pines formed a natural canopy, some branches had been freshly broken just at the height of five feet.",
+            "content_type": "split"
+        },
+        {
+            "original": "Uno dei cespugli di more, là dove l'animale deve aver girato per infilare il sentiero alla sua destra, mentre fieramente scuoteva la sua bella coda, tratteneva ancora tra gli spini dei lunghi crini nerissimi... Non mi dirai infine che non sai che quel sentiero conduce al deposito dello strame, perché salendo per il tornante inferiore abbiamo visto la bava dei detriti scendere a strapiombo ai piedi del torrione meridionale, bruttando la neve;",
+            "translated": "One of the blackberry bushes, where the animal must have turned to take the path to its right, while proudly shaking its beautiful tail, still held among its thorns long, very black hairs... You won't tell me in the end that you don't know that path leads to the hay barn, because, going up the lower bend, we saw the debris' slime descending sheer at the foot of the southern tower, dirtying the snow;",
+            "content_type": "split"
+        },
+        {
+            "original": "e così come il trivio era disposto, il sentiero non poteva che condurre in quella direzione.",
+            "translated": "And so, as the fork in the road was laid out, the path could only lead in that direction.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Sì,\" dissi, \"ma il capo piccolo, le orecchie aguzze, gli occhi grandi...\"\n\"Non so se li abbia, ma certo i monaci lo credono fermamente.",
+            "translated": "\" \"Yes,\" I said, \"but the small head, the pointed ears, the big eyes...\"\n\"I don't know if it has them, but certainly the monks believe it firmly.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Diceva Isidoro di Siviglia che la bellezza di un cavallo esige «ut sit exiguum caput et siccum prope pelle ossibus adhaerente, aures breves et argutae, oculi magni, nares patulae, erecta cervix, coma densa et cauda, ungularum soliditate fixa rotunditas».",
+            "translated": "Isidore of Seville said that the beauty of a horse requires \"that the head be small and dry with the skin closely adhering to the bones, the ears short and sharp, the eyes large, the nostrils wide, the neck erect, the mane dense and the tail, the roundness of the hooves fixed in solidity.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Se il cavallo di cui ho inferito il passaggio non fosse stato davvero il migliore della scuderia, non spiegheresti perché a inseguirlo non sono stati solo gli stallieri, ma si è incomodato addirittura il cellario.",
+            "translated": "If the horse whose passage I inferred had not been truly the best in the stable, you wouldn't explain why not only the grooms but even the cellarer bothered to chase after it.",
+            "content_type": "split"
+        },
+        {
+            "original": "E un monaco che considera un cavallo eccellente, al di là delle forme naturali, non può non vederlo così come le auctoritates glielo hanno descritto, specie se,» e qui sorrise con malizia al mio indirizzo, «è un dotto benedettino...»\".",
+            "translated": "It is a monk who considers a horse excellent, beyond natural forms, who cannot but see it as the authorities have described it to him, especially if,\" and here he smiled maliciously at me, \"he is a learned Benedictine...\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Va bene,\" dissi, \"ma perché Brunello?",
+            "translated": "\"Alright,\" I said, \"but why Brunello?\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Che lo Spirito Santo ti dia più sale in zucca di quel che hai, figlio mio!\" esclamò il maestro.",
+            "translated": "\"May the Holy Spirit give you more brains than you have, my son!\" exclaimed the teacher.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Quale altro nome gli avresti dato se persino il grande Buridano, che sta per diventare rettore a Parigi, dovendo parlare di un bel cavallo, non trovò nome più naturale?",
+            "translated": "What other name would you have given it if even the great Buridan, who is about to become rector in Paris, when he had to speak of a fine horse, did not find a more natural name?",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\nCosì era il mio maestro.",
+            "translated": "\"Such was my teacher.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Non soltanto sapeva leggere nel gran libro della natura, ma anche nel modo in cui i monaci leggevano i libri della scrittura, e pensavano attraverso di quelli.",
+            "translated": "Not only could he read in the great book of nature, but also in the way the monks read the books of scripture, and thought through them.",
+            "content_type": "split"
+        },
+        {
+            "original": "Dote che, come vedremo, gli doveva tornar assai utile nei giorni che sarebbero seguiti.",
+            "translated": "A trait that, as we shall see, would prove to be very useful to him in the days that would follow.",
+            "content_type": "split"
+        },
+        {
+            "original": "La sua spiegazione inoltre mi parve a quel punto",
+            "translated": "At that point, her explanation also seemed to me",
+            "content_type": "split"
+        },
+        {
+            "original": "tanto ovvia che l'umiliazione per non averla trovata da solo fu sopraffatta dall'orgoglio di esserne ormai compartecipe e quasi mi congratulai con me stesso per la mia acutezza.",
+            "translated": "So obvious that the humiliation of not having found it on my own was overcome by the pride of now being a part of it, and I almost congratulated myself for my acuteness.",
+            "content_type": "split"
+        },
+        {
+            "original": "Tale è la forza del vero che, come il bene, è diffusivo di sé.",
+            "translated": "Such is the power of truth that, like good, it is diffusive of itself.",
+            "content_type": "split"
+        },
+        {
+            "original": "E sia lodato il nome santo del nostro signore Gesù Cristo per questa bella rivelazione che ebbi.",
+            "translated": "And praised be the holy name of our Lord Jesus Christ for this beautiful revelation that I had.",
+            "content_type": "split"
+        },
+        {
+            "original": "Ma riprendi le fila, o mio racconto, ché questo monaco senescente si attarda troppo nei marginalia.",
+            "translated": "But take up the threads again, O my tale, for this aging monk lingers too long in the marginalia.",
+            "content_type": "split"
+        },
+        {
+            "original": "Di' piuttosto che arrivammo al grande portale dell'abbazia, e sulla soglia stava l'Abate a cui due novizi sorreggevano una bacinella d'oro colma d'acqua.",
+            "translated": "Say rather that we arrived at the great portal of the abbey, and on the threshold stood the Abbot, whom two novices supported a golden basin full of water.",
+            "content_type": "split"
+        },
+        {
+            "original": "E come fummo discesi dai nostri animali, egli lavò le mani a Guglielmo, poi lo abbracciò baciandolo sulla bocca e dandogli il suo santo benvenuto, mentre il cellario si occupava di me.\n\"Grazie Abbone,\" disse Guglielmo, \"è per me una gioia grande mettere piede nel monastero della magnificenza vostra, la cui fama ha valicato queste montagne.",
+            "translated": "And as we had dismounted from our animals, he washed William's hands, then embraced him, kissing him on the mouth and giving him his holy welcome, while the cellarer attended to me.\n\n\"Thank you, Abbone,\" said William, \"it is a great joy for me to set foot in the monastery of your magnificence, whose fame has crossed these mountains.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Io vengo come pellegrino nel nome di Nostro Signore e come tale voi mi avete reso onore.",
+            "translated": "I come as a pilgrim in the name of Our Lord and as such you have honored me.",
+            "content_type": "split"
+        },
+        {
+            "original": "Ma vengo anche a nome del nostro signore su questa terra, come vi dirà la lettera che vi consegno, e anche a suo nome vi ringrazio per la vostra accoglienza.",
+            "translated": "But I also come on behalf of our lord on this earth, as the letter I give you will tell you, and in his name, I also thank you for your hospitality.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\nL'Abate prese la lettera coi sigilli imperiali e disse che in ogni caso la venuta di Guglielmo era stata preceduta da altre missive di suoi confratelli (dappoiché, mi dissi io con un certo orgoglio, è difficile cogliere un abate benedettino di sorpresa), poi pregò il cellario di condurci ai nostri alloggiamenti, mentre gli stallieri ci prendevano le cavalcature.",
+            "translated": "The Abbot took the letter with the imperial seals and said that in any case, William's arrival had been preceded by other missives from his brethren (since, I thought to myself with a certain pride, it is difficult to catch a Benedictine abbot by surprise), then he asked the cellarer to lead us to our lodgings, while the grooms took our mounts.",
+            "content_type": "split"
+        },
+        {
+            "original": "L'Abate si ripromise di visitarci più tardi quando ci fossimo rifocillati, ed entrammo nella grande corte dove gli edifici dell'abbazia si estendevano lungo tutto il dolce pianoro che smussava in una morbida conca - o alpe - la sommità del monte.",
+            "translated": "The Abbot promised to visit us later when we had refreshed ourselves, and we entered the large courtyard where the buildings of the abbey stretched along the entire gentle plain that tapered into a soft basin - or alpine valley - at the top of the mountain.",
+            "content_type": "split"
+        },
+        {
+            "original": "Della disposizione dell'abbazia avrò occasione di dire più volte, e più minutamente.",
+            "translated": "I will have occasion to speak more than once, and in more detail, about the layout of the abbey.",
+            "content_type": "split"
+        },
+        {
+            "original": "Dopo il portale (che era l'unico varco nelle mura di cinta) si apriva un viale alberato che conduceva alla chiesa abbaziale.",
+            "translated": "After the portal (which was the only gap in the surrounding walls) opened up an avenue lined with trees that led to the abbey church.",
+            "content_type": "split"
+        },
+        {
+            "original": "A sinistra del viale si stendeva una vasta zona di orti e, come poi seppi, il giardino botanico, intorno ai due edifici dei balnea e dell'ospedale ed erboristeria, che costeggiavano la curva delle mura.",
+            "translated": "To the left of the avenue lay a vast area of gardens and, as I later found out, the botanical garden, around the two buildings of the baths and the hospital and apothecary, which bordered the curve of the walls.",
+            "content_type": "split"
+        },
+        {
+            "original": "Sul fondo, a sinistra della chiesa, si ergeva l'Edificio, separato dalla chiesa da una spianata coperta di tombe.",
+            "translated": "At the back, to the left of the church, stood the Building, separated from the church by a clearing covered with graves.",
+            "content_type": "split"
+        },
+        {
+            "original": "Il portale nord della chiesa guardava il torrione sud dell'Edificio, che offriva frontalmente agli occhi del visitatore il torrione occidentale, quindi a sinistra si legava alle mura e sprofondava turrito verso l'abisso, su cui si protendeva il torrione settentrionale, che si vedeva di sghimbescio.",
+            "translated": "The north portal of the church faced the south tower of the Building, which offered the western tower frontally to the visitor's eyes, and thus to the left it connected to the walls and plunged turreted towards the abyss, over which the northern tower stretched, which was seen askew.",
+            "content_type": "split"
+        },
+        {
+            "original": "A destra della chiesa si stendevano alcune costruzioni che le stavano a ridosso, e intorno al chiostro:",
+            "translated": "To the right of the church, there were some buildings that stood close to it, and around the cloister:",
+            "content_type": "split"
+        },
+        {
+            "original": "certo il dormitorio, la casa dell'Abate e la casa dei pellegrini a cui eravamo diretti e che raggiungemmo traversando un bel giardino.",
+            "translated": "Certainly the dormitory, the Abbot's house, and the house for pilgrims that we were heading to and that we reached by crossing a beautiful garden.",
+            "content_type": "split"
+        },
+        {
+            "original": "Sul lato destro, al di là di una vasta spianata, lungo le mura meridionali e continuando a oriente dietro la chiesa, una serie di quartieri colonici, stalle, mulini, frantoi, granai e cantine, e quella che mi parve essere la casa dei novizi.",
+            "translated": "On the right side, beyond a vast expanse, along the southern walls and continuing east behind the church, a series of colonial quarters, stables, mills, oil presses, granaries, and cellars, and what seemed to me to be the house of the novices.",
+            "content_type": "split"
+        },
+        {
+            "original": "La regolarità del terreno, appena ondulato, aveva permesso agli antichi costruttori di quel luogo sacro di rispettare i dettami dell'orientamento, meglio di quanto avrebbero potuto pretendere Onorio Augustoduniense o Guglielmo",
+            "translated": "The regularity of the terrain, slightly undulating, had allowed the ancient builders of that sacred place to respect the dictates of orientation, better than Honorius Augustodunensis or William could have demanded.",
+            "content_type": "split"
+        },
+        {
+            "original": "Durando.",
+            "translated": "Enduring.",
+            "content_type": "split"
+        },
+        {
+            "original": "Dalla posizione del sole in quell'ora del giorno, mi avvidi che il portale si apriva perfettamente a occidente, così che il coro e l'altare fossero rivolti a oriente;",
+            "translated": "From the position of the sun at that time of day, I realized that the portal opened perfectly to the west, so that the choir and the altar faced east.",
+            "content_type": "split"
+        },
+        {
+            "original": "e il sole di buon mattino poteva sorgere risvegliando direttamente i monaci nel dormitorio e gli animali nelle stalle.",
+            "translated": "and the morning sun could rise, awakening the monks directly in the dormitory and the animals in the stables.",
+            "content_type": "split"
+        },
+        {
+            "original": "Non vidi abbazia più bella e mirabilmente orientata, anche se in seguito conobbi San Gallo, e Cluny, e Fontenay, e altre ancora, forse più grandi ma meno proporzionate.",
+            "translated": "I did not see a more beautiful or wonderfully oriented abbey, although later I came to know Saint Gall, and Cluny, and Fontenay, and others still, perhaps larger but less proportionate.",
+            "content_type": "split"
+        },
+        {
+            "original": "Diversamente dalle altre, questa si segnalava però per la mole incommensurabile dell'Edificio.",
+            "translated": "Unlike the others, this one stood out, however, for the immense size of the Building.",
+            "content_type": "split"
+        },
+        {
+            "original": "Non avevo l'esperienza di un maestro muratore, ma mi avvidi subito che esso era molto più antico delle costruzioni che lo attorniavano,nato forse per altri scopi, e che l'insieme abbaziale gli si era disposto intorno in tempi posteriori, ma in modo che l'orientamento della grande costruzione si adeguasse a quello della chiesa, o questa a quello.",
+            "translated": "I did not have the experience of a master mason, but I immediately realized that it was much older than the buildings that surrounded it, perhaps born for other purposes, and that the abbey complex had been arranged around it in later times, but in such a way that the orientation of the great building adapted to that of the church, or this to that.",
+            "content_type": "split"
+        },
+        {
+            "original": "Perché l'architettura è tra tutte le arti quella che più arditamente cerca di riprodurre nel suo ritmo l'ordine dell'universo, che gli antichi chiamavano kosmos, e cioè ornato, in quanto è come un grande animale su cui rifulge la perfezione e la proporzione di tutte le sue membra.",
+            "translated": "Because architecture is among all the arts the one that most boldly seeks to reproduce in its rhythm the order of the universe, which the ancients called kosmos, and that is, adorned, in that it is like a great animal on which shines the perfection and proportion of all its members.",
+            "content_type": "split"
+        },
+        {
+            "original": "E sia lodato il Creatore Nostro che, come dice Agostino, ha stabilito tutte le cose in numero, peso e misura.",
+            "translated": "And praised be our Creator, who, as Augustine says, has established all things in number, weight, and measure.",
+            "content_type": "split"
+        },
+        {
+            "original": "# Primo giorno \n\n#",
+            "translated": "# First day",
+            "content_type": "split"
+        },
+        {
+            "original": "#",
+            "translated": "You did not provide any text to translate.",
+            "content_type": "split"
+        },
+        {
+            "original": "Terza\n\nDove Guglielmo ha una istruttiva conversazione con l'Abate\n\nIl cellario era uomo pingue e di aspetto volgare ma gioviale, canuto ma ancor robusto, piccolo ma veloce.",
+            "translated": "Third\n\nWhere William has an instructive conversation with the Abbot\n\nThe cellarer was a plump man of vulgar appearance but cheerful, white-haired but still robust, small but quick.",
+            "content_type": "split"
+        },
+        {
+            "original": "Ci condusse alle nostre celle nella casa dei pellegrini.",
+            "translated": "He led us to our cells in the pilgrims' house.",
+            "content_type": "split"
+        },
+        {
+            "original": "O meglio, ci condusse alla cella assegnata al mio maestro, promettendomi che per il giorno seguente ne avrebbe liberata una anche per me in quanto, sebbene novizio, ero ospite loro, e dunque dovevo essere trattato con ogni onore.",
+            "translated": "Or rather, he led us to the cell assigned to my master, promising me that by the following day he would have secured one for me as well, since, although I was a novice, I was their guest, and therefore I had to be treated with every honor.",
+            "content_type": "split"
+        },
+        {
+            "original": "Per quella notte avrei potuto dormire in una vasta e lunga nicchia che si apriva nella parete della cella, su cui aveva fatto disporre della buona paglia fresca.",
+            "translated": "For that night, I could have slept in a large and long niche that opened in the wall of the cell, on which fresh, good straw had been laid.",
+            "content_type": "split"
+        },
+        {
+            "original": "Cosa che, aggiunse, si faceva talora per i servi di qualche signore che desiderava essere vegliato durante il suo sonno.",
+            "translated": "Something that, he added, was sometimes done for the servants of some lord who wanted to be watched over during his sleep.",
+            "content_type": "split"
+        },
+        {
+            "original": "Poi i monaci ci portarono vino, cacio, olive, pane e della buona uva passa, e ci lasciarono a rifocillarci.",
+            "translated": "Then the monks brought us wine, cheese, olives, bread, and some good raisins, and left us to refresh ourselves.",
+            "content_type": "split"
+        },
+        {
+            "original": "Mangiammo e bevemmo con molto gusto.",
+            "translated": "We ate and drank with great pleasure.",
+            "content_type": "split"
+        },
+        {
+            "original": "Il mio maestro non aveva le abitudini austere dei benedettini e non amava mangiare in silenzio.",
+            "translated": "My teacher did not have the austere habits of the Benedictines and did not like to eat in silence.",
+            "content_type": "split"
+        },
+        {
+            "original": "Peraltro parlava sempre di cose così buone e sagge che era come se un monaco ci leggesse le vite dei santi.",
+            "translated": "Moreover, he always spoke of such good and wise things that it was as if a monk was reading us the lives of the saints.",
+            "content_type": "split"
+        },
+        {
+            "original": "Quel giorno non mi trattenni dall'interrogarlo ancora sul fatto del cavallo.",
+            "translated": "That day I did not refrain from questioning him again about the matter of the horse.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Però,\" dissi, \"quando voi avete letto le tracce sulla neve e sui rami, non conoscevate ancora Brunello.",
+            "translated": "\"However,\" I said, \"when you read the tracks in the snow and on the branches, you did not yet know Brunello.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "In un certo modo quelle tracce ci parlavano di tutti i cavalli, o almeno di tutti i cavalli di quella specie.",
+            "translated": "In a certain way, those tracks spoke to us of all horses, or at least of all horses of that species.",
+            "content_type": "split"
+        },
+        {
+            "original": "Non dobbiamo dunque dire che il libro della natura ci parla solo per essenze, come insegnano molti insigni teologi?",
+            "translated": "We must not then say that the book of nature speaks to us only through essences, as many distinguished theologians teach?",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Non del tutto caro Adso,\" mi rispose il maestro.",
+            "translated": "\"Not entirely, dear Adso,\" the master replied to me.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Certo quel tipo di impronte mi esprimeva, se vuoi, il cavallo come verbum mentis, e me l'avrebbe espresso ovunque l'avessi trovato.",
+            "translated": "Sure, that type of hoofprint expressed to me, if you will, the horse as a verbum mentis, and it would have expressed it to me wherever I found it.",
+            "content_type": "split"
+        },
+        {
+            "original": "Ma l'impronta in quel luogo e in quell'ora del giorno mi diceva che almeno uno tra tutti i cavalli possibili era passato di lì.",
+            "translated": "But the hoofprint in that place and at that time of day told me that at least one of all the possible horses had passed by there.",
+            "content_type": "split"
+        },
+        {
+            "original": "Così che io mi trovavo a mezza strada tra l'apprendimento del concetto di cavallo e la conoscenza di un cavallo individuale.",
+            "translated": "So that I was halfway between learning the concept of a horse and knowing an individual horse.",
+            "content_type": "split"
+        },
+        {
+            "original": "E in ogni caso quel che io conoscevo del cavallo universale mi era dato dalla traccia, che era singolare.",
+            "translated": "And in any case, what I knew about the universal horse was given to me by the trace, which was singular.",
+            "content_type": "split"
+        },
+        {
+            "original": "Potrei dire che in quel momento io ero prigioniero tra la singolarità della traccia e la mia ignoranza, che assumeva la forma assai diafana di un'idea universale.",
+            "translated": "I could say that at that moment I was a prisoner between the singularity of the track and my ignorance, which took on the very diaphanous form of a universal idea.",
+            "content_type": "split"
+        },
+        {
+            "original": "Se tu vedi qualcosa da lontano, e non capisci cosa sia, ti accontenterai di definirlo come un corpo esteso.",
+            "translated": "If you see something from afar, and you don't understand what it is, you will be content to define it as an extended body.",
+            "content_type": "split"
+        },
+        {
+            "original": "Quando ti si sarà avvicinato lo definirai allora come un animale, anche se non saprai ancora se sia un cavallo o un asino.",
+            "translated": "When it will have approached you, you will then define it as an animal, even if you will not yet know if it is a horse or a donkey.",
+            "content_type": "split"
+        },
+        {
+            "original": "E infine, quando esso sarà più vicino, potrai dire che è un cavallo anche se non saprai ancora se Brunello o Favello.",
+            "translated": "And finally, when it is closer, you will be able to say that it is a horse even if you still do not know whether it is Brunello or Favello.",
+            "content_type": "split"
+        },
+        {
+            "original": "E solo quando sarai alla giusta distanza tu vedrai che è Brunello (ovvero quel cavallo e non un altro, comunque tu decida di chiamarlo).",
+            "translated": "It is only when you are at the right distance that you will see that it is Brunello (that is, that horse and no other, whatever you decide to call him).",
+            "content_type": "split"
+        },
+        {
+            "original": "E quella sarà la conoscenza piena, l'intuizione del singolare.",
+            "translated": "And that will be full knowledge, the intuition of the singular.",
+            "content_type": "split"
+        },
+        {
+            "original": "Così io",
+            "translated": "So I",
+            "content_type": "split"
+        },
+        {
+            "original": "un'ora fa ero pronto ad attendermi tutti i cavalli, ma non per la vastità del mio intelletto, bensì per la pochezza della mia intuizione.",
+            "translated": "An hour ago I was ready to expect all the horses, but not because of the vastness of my intellect, rather because of the paucity of my intuition.",
+            "content_type": "split"
+        },
+        {
+            "original": "E la fame del mio intelletto è stata saziata solo quando ho visto il cavallo singolo, che i monaci portavano per il morso.",
+            "translated": "And the hunger of my intellect was satisfied only when I saw the single horse, which the monks led by the bridle.",
+            "content_type": "split"
+        },
+        {
+            "original": "Solo allora ho veramente saputo che il mio ragionare di prima mi aveva condotto vicino alla verità.",
+            "translated": "Only then did I truly realize that my earlier reasoning had led me close to the truth.",
+            "content_type": "split"
+        },
+        {
+            "original": "Così le idee, che io usavo prima per figurarmi un cavallo che non avevo ancora visto, erano puri segni, come erano segni dell'idea di cavallo le impronte sulla neve:",
+            "translated": "So the ideas that I used before to imagine a horse that I had not yet seen were pure signs, just as the hoofprints in the snow were signs of the idea of a horse:",
+            "content_type": "split"
+        },
+        {
+            "original": "e si usano segni e segni di segni solo quando ci fanno difetto le cose.",
+            "translated": "and signs and signs of signs are used only when things fail us.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\nAltre volte lo avevo udito parlare con molto scetticismo delle idee universali e gran rispetto delle cose individuali:",
+            "translated": "Other times I had heard him speak with great skepticism of universal ideas and great respect for individual things:",
+            "content_type": "split"
+        },
+        {
+            "original": "e anche in seguito mi parve che questa tendenza gli provenisse sia dall'essere britannico che dall'essere francescano.",
+            "translated": "And later on, it also seemed to me that this tendency came to him both from being British and from being Franciscan.",
+            "content_type": "split"
+        },
+        {
+            "original": "Ma quel giorno non aveva forze sufficienti per affrontare dispute teologiche:",
+            "translated": "But that day he did not have sufficient strength to face theological disputes.",
+            "content_type": "split"
+        },
+        {
+            "original": "sì che mi rannicchiai nello spazio che mi era stato concesso, mi avvolsi in una coperta e caddi in un sonno profondo.",
+            "translated": "Yes, I curled up in the space that had been given to me, wrapped myself in a blanket, and fell into a deep sleep.",
+            "content_type": "split"
+        },
+        {
+            "original": "Chi fosse entrato avrebbe potuto scambiarmi per un fagotto.",
+            "translated": "Whoever had entered could have mistaken me for a bundle.",
+            "content_type": "split"
+        },
+        {
+            "original": "E così fece certamente l'Abate quando venne a visitare Guglielmo verso l'ora terza.",
+            "translated": "And so the Abbot certainly did when he came to visit William around the third hour.",
+            "content_type": "split"
+        },
+        {
+            "original": "Fu così che io potei ascoltare inosservato il loro primo colloquio.",
+            "translated": "It was thus that I was able to listen in unobserved to their first conversation.",
+            "content_type": "split"
+        },
+        {
+            "original": "E senza malizia, perché il manifestarmi di colpo al visitatore sarebbe stato più scortese che il celarmi, come feci, con umiltà.\n\nGiunse pertanto Abbone.",
+            "translated": "And without malice, for suddenly appearing to the visitor would have been more impolite than hiding, as I did, with humility.\n\nAbbot Abbone then arrived.",
+            "content_type": "split"
+        },
+        {
+            "original": "Si scusò per l'intrusione, rinnovò il suo benvenuto e disse che doveva parlare a Guglielmo, in privato, di cosa assai grave.",
+            "translated": "He apologized for the intrusion, renewed his welcome, and said that he had to speak to William in private about a matter of great importance.",
+            "content_type": "split"
+        },
+        {
+            "original": "Cominciò a congratularsi con lui per l'abilità con cui si era condotto nella storia del cavallo, e chiese come mai egli aveva saputo dar notizie tanto sicure di una bestia che non aveva mai vista.",
+            "translated": "He began to congratulate him for the skill with which he had handled the story of the horse, and asked how he had known to give such sure news of a beast he had never seen.",
+            "content_type": "split"
+        },
+        {
+            "original": "Guglielmo gli spiegò succintamente e con distacco la via che aveva seguito, e l'Abate molto si rallegrò per il suo acume.",
+            "translated": "William briefly and dispassionately explained to him the path he had taken, and the Abbot was very pleased with his acumen.",
+            "content_type": "split"
+        },
+        {
+            "original": "Disse che non si sarebbe atteso di meno da un uomo che era stato preceduto da una fama di grande sagacia.",
+            "translated": "He said that he would not have expected any less from a man who had been preceded by a reputation for great sagacity.",
+            "content_type": "split"
+        },
+        {
+            "original": "Gli disse che aveva ricevuto una lettera dall'Abate di Farfa che non solo gli parlava della missione affidata a Guglielmo dall'imperatore (della quale avrebbero poi discusso nei giorni seguenti) ma anche gli diceva che in Inghilterra e in Italia il mio maestro era stato inquisitore in alcuni processi, dove si era distinto per la sua perspicacia, non disgiunta da grande umanità.\n\"Molto mi è piaciuto sapere,\" aggiunse l'Abate, \"che in numerosi casi voi avete deciso per l'innocenza dell'accusato.",
+            "translated": "He told him that he had received a letter from the Abbot of Farfa which not only spoke to him about the mission entrusted to William by the emperor (which they would discuss in the following days) but also told him that in England and in Italy my master had been an inquisitor in some trials, where he had distinguished himself for his perspicacity, not lacking in great humanity.\n\n\"Very much I liked to know,\" added the Abbot, \"that in numerous cases you have decided for the innocence of the accused.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Credo, e mai come in questi giorni tristissimi, alla presenza costante del maligno nelle cose umane,\" e si guardò intorno, impercettibilmente, come se il nemico si aggirasse tra quelle mura, \"ma credo anche che molte volte il maligno operi per cause seconde.",
+            "translated": "I believe, and never more so than in these most sorrowful days, in the constant presence of evil in human affairs,\" and he looked around, imperceptibly, as if the enemy were lurking among those walls, \"but I also believe that often evil operates through secondary causes.",
+            "content_type": "split"
+        },
+        {
+            "original": "E so che può spingere le sue vittime a fare il male in modo tale che la colpa ricada su di un giusto, godendo del fatto che il giusto venga bruciato in luogo del suo succubo.",
+            "translated": "And I know that it can drive its victims to do evil in such a way that the blame falls on a just person, delighting in the fact that the just person is burned in place of its familiar.",
+            "content_type": "split"
+        },
+        {
+            "original": "Spesso gli inquisitori, per dar prova di solerzia, strappano a ogni costo una confessione all'accusato, pensando che sia buon inquisitore solo colui che conclude il processo trovando un capro espiatorio...\"\n\"Anche un inquisitore può essere mosso dal diavolo,\" disse Guglielmo.",
+            "translated": "Often, inquisitors, to prove their diligence, extract a confession from the accused at any cost, thinking that a good inquisitor is only he who concludes the trial finding a scapegoat...\n\"Even an inquisitor can be moved by the devil,\" said William.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"E' possibile\" ammise l'Abate con molta cautela, \"perché i disegni dell'Altissimo sono imperscrutabili, ma non sarò io a gettare l'ombra del sospetto su uomini così benemeriti.",
+            "translated": "\"It is possible,\" admitted the Abbot with great caution, \"because the designs of the Almighty are inscrutable, but I will not be the one to cast the shadow of suspicion on men so deserving.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "E' anzi di voi, come uno di coloro, che io ho oggi bisogno.",
+            "translated": "It is rather of you, as one of those, that I need today.",
+            "content_type": "split"
+        },
+        {
+            "original": "E' accaduto in questa abbazia qualcosa, che richiede l'attenzione e il consiglio di un uomo acuto e prudente come voi siete.",
+            "translated": "Something has happened in this abbey that requires the attention and advice of a shrewd and prudent man like yourself.",
+            "content_type": "split"
+        },
+        {
+            "original": "Acuto per scoprire e prudente (se il caso) per coprire.",
+            "translated": "Sharp to discover and prudent (if the case) to cover.",
+            "content_type": "split"
+        },
+        {
+            "original": "Spesso infatti è indispensabile provare la colpa di uomini che dovrebbero eccellere per la loro santità, ma in modo da poter eliminare la causa del male senza che il colpevole venga additato al pubblico disprezzo.",
+            "translated": "Often it is indeed necessary to prove the guilt of men who should excel in their holiness, but in such a way as to be able to eliminate the cause of evil without the culprit being pointed out to public disgrace.",
+            "content_type": "split"
+        },
+        {
+            "original": "Se un pastore falla deve essere isolato dagli altri pastori, ma guai se le pecore cominciassero a diffidare dei pastori.",
+            "translated": "If a shepherd falls, he must be isolated from the other shepherds, but woe betide if the sheep start to distrust the shepherds.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Capisco,\" disse Guglielmo.",
+            "translated": "\"Understood,\" said William.",
+            "content_type": "split"
+        },
+        {
+            "original": "Avevo già avuto modo di notare che, quando si esprimeva in quel modo così sollecito ed educato, di solito celava, in modo onesto, il suo dissenso o la sua perplessità.\n\"Per questo,\" continuò l'Abate, \"ritengo che ogni caso che riguardi il fallo di un pastore non possa essere affidato che a uomini come voi, che non solo sanno distinguere il bene dal male, ma anche ciò che è opportuno da ciò che non lo è.",
+            "translated": "I had already noticed that, when he expressed himself in that solicitous and polite manner, he usually honestly concealed his dissent or his perplexity.\n\"For this reason,\" continued the Abbot, \"I believe that every case involving the fault of a shepherd cannot be entrusted to anyone other than men like you, who not only know how to distinguish good from evil, but also what is appropriate from what is not.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Mi piace pensare che voi abbiate condannato solo quando...\"\n\"...gli accusati erano colpevoli di atti delittuosi, di venefici, di corruzione di fanciulli innocenti e di altre nefandezze che la mia bocca non osa pronunziare...\"\n\"...che abbiate condannato solo quando,\" continuò l'Abate senza tener conto dell'interruzione, \"la presenza del demonio fosse così evidente agli occhi di tutti da non potersi procedere diversamente senza che l'indulgenza fosse più scandalosa dello stesso delitto.",
+            "translated": "\"I like to think that you have only condemned when...\"\n\"...the accused were guilty of criminal acts, of poisoning, of corrupting innocent children, and of other abominations that my mouth dare not pronounce...\"\n\"...that you have only condemned when,\" continued the Abbot, paying no heed to the interruption, \"the presence of the devil was so evident to everyone that it was impossible to proceed otherwise without indulgence being more scandalous than the crime itself.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Quando ho riconosciuto qualcuno colpevole,\" precisò Guglielmo, \"costui aveva realmente commesso crimini di tal fatta che potevo consegnarlo con buona coscienza al braccio secolare.",
+            "translated": "\"When I recognized someone as guilty,\" Guglielmo specified, \"that person had indeed committed such crimes that I could hand them over with a clear conscience to the secular arm.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\nL'Abate ebbe un attimo di incertezza:",
+            "translated": "The Abbot had a moment of uncertainty:",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Perché,\" chiese, \"insistete nel parlare di azioni delittuose senza pronunciarvi sulla loro causa diabolica?",
+            "translated": "\"Because,\" he asked, \"do you insist on talking about criminal actions without commenting on their diabolical cause?\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Perché ragionare sulle cause e sugli effetti è cosa assai difficile, di cui credo che l'unico giudice possa essere Dio.",
+            "translated": "\"Because reasoning about causes and effects is a very difficult thing, of which I believe that the only judge can be God.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Noi già fatichiamo molto a porre un rapporto tra un effetto così evidente come un albero bruciato e la folgore che lo ha incendiato, che il risalire catene talora lunghissime di cause ed effetti mi pare altrettanto folle che cercare di costruire una torre che arrivi sino al cielo.",
+            "translated": "We already struggle enough to establish a connection between an effect as evident as a burned tree and the lightning that set it on fire, so tracing back chains of causes and effects that are sometimes extremely long seems to me just as foolish as trying to build a tower that reaches up to the sky.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Il dottore d'Aquino,\" suggerì l'Abate, \"non ha temuto di dimostrare con la forza della sola ragione l'esistenza dell'Altissimo risalendo di causa in causa alla causa prima non causata.",
+            "translated": "\"The doctor of Aquino,\" suggested the Abbot, \"did not fear to demonstrate with the force of reason alone the existence of the Almighty, ascending from cause to cause to the uncaused first cause.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Chi sono io,\" disse con umiltà Guglielmo, \"per oppormi al dottore d'Aquino?",
+            "translated": "\"Who am I,\" said humbly William, \"to oppose Doctor Aquinas?\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Anche perché la sua prova dell'esistenza di Dio è suffragata da tante altre testimonianze che le sue vie ne risultano fortificate.",
+            "translated": "Even because his proof of the existence of God is supported by so many other testimonies that his ways are thereby fortified.",
+            "content_type": "split"
+        },
+        {
+            "original": "Dio ci parla nell'interno dell'anima nostra, come già sapeva Agostino, e voi Abbone avreste cantato le lodi del Signore e l'evidenza della sua presenza anche se Tommaso non avesse...\" Si arrestò, e soggiunse:",
+            "translated": "God speaks to us within our souls, as Augustine already knew, and you, Abbon, would have sung the praises of the Lord and the evidence of His presence even if Thomas had not...\" He stopped, and added:",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Immagino.",
+            "translated": "I imagine.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Oh, certo,\" si affrettò ad assicurare l'Abate, e il mio maestro troncò in questo modo bellissimo una discussione di scuola che evidentemente gli piaceva poco.",
+            "translated": "\"Oh, certainly,\" the Abbot hastened to assure, and my teacher cut off this school discussion, which evidently he didn't like much, in this beautiful way.",
+            "content_type": "split"
+        },
+        {
+            "original": "Poi riprese a parlare.",
+            "translated": "Then he began to speak again.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Torniamo ai processi.",
+            "translated": "Let's return to the processes.",
+            "content_type": "split"
+        },
+        {
+            "original": "Vedete, un uomo, poniamo, è stato ucciso per veneficio.",
+            "translated": "You see, a man, let's say, has been killed by poison.",
+            "content_type": "split"
+        },
+        {
+            "original": "Questo è un dato di esperienza.",
+            "translated": "This is a matter of experience.",
+            "content_type": "split"
+        },
+        {
+            "original": "E' possibile che io immagini, di fronte a certi segni inconfutabili, che l'autore del veneficio sia un altro uomo.",
+            "translated": "It's possible that I imagine, in the face of certain irrefutable signs, that the author of the poison is another man.",
+            "content_type": "split"
+        },
+        {
+            "original": "Su catene di cause così semplici la mia mente può intervenire con una certa fiducia nel suo potere.",
+            "translated": "On chains of causes so simple my mind can intervene with a certain confidence in its power.",
+            "content_type": "split"
+        },
+        {
+            "original": "Ma come posso complicare la catena immaginando che, a causare l'azione malvagia, ci sia un altro intervento, questa volta non umano ma diabolico?",
+            "translated": "But how can I complicate the chain by imagining that, causing the evil action, there is another intervention, this time not human but diabolical?",
+            "content_type": "split"
+        },
+        {
+            "original": "Non dico che non sia possibile, anche il diavolo denuncia il suo passaggio per chiari segni, come il vostro cavallo Brunello.",
+            "translated": "I'm not saying it's not possible, even the devil announces his passage with clear signs, like your horse Brunello.",
+            "content_type": "split"
+        },
+        {
+            "original": "Ma perché devo cercare queste prove?",
+            "translated": "But why do I have to look for these proofs?",
+            "content_type": "split"
+        },
+        {
+            "original": "Non è già sufficiente che io sappia che il colpevole è quell'uomo e lo consegni al braccio secolare?",
+            "translated": "Is it not already sufficient that I know the culprit is that man and I hand him over to the secular arm?",
+            "content_type": "split"
+        },
+        {
+            "original": "In ogni caso la sua pena sarà la morte, che Dio lo perdoni.",
+            "translated": "In any case, his punishment will be death, may God forgive him.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Ma mi risulta che in un processo svoltosi a Kilkenny tre anni fa, in cui alcune persone furono accusate di aver commesso turpi delitti, voi non abbiate negato l'intervento diabolico, una volta individuati i colpevoli.",
+            "translated": "\"But it seems to me that in a trial held in Kilkenny three years ago, in which some people were accused of committing heinous crimes, you did not deny the devil's intervention, once the culprits were identified.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Ma nemmeno lo ho mai affermato con parole aperte.",
+            "translated": "\"But I have never even stated it in so many words.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Non l'ho neppure negato, è vero.",
+            "translated": "I didn't even deny it, it's true.",
+            "content_type": "split"
+        },
+        {
+            "original": "Chi sono io per esprimere giudizi sulle trame del maligno, specie,\" aggiunse, e parve voler insistere su questa ragione, \"in casi in cui coloro che avevano dato inizio all'inquisizione, il vescovo, i magistrati cittadini e il popolo tutto, forse gli stessi accusati, desideravano veramente avvertire la presenza del demonio?",
+            "translated": "Who am I to express judgments on the plots of evil, especially,\" he added, and seemed to want to insist on this reason, \"in cases where those who had initiated the inquisition, the bishop, the city magistrates, and the entire people, perhaps even the accused themselves, truly wanted to sense the presence of the demon?",
+            "content_type": "split"
+        },
+        {
+            "original": "Ecco, forse l'unica vera prova della presenza del diavolo è l'intensità con cui tutti in quel momento ambiscono saperlo all'opera...\"\n\"Voi quindi,\" disse l'Abate con tono preoccupato, \"mi dite che in molti processi il diavolo non agisce solo nel colpevole ma forse e soprattutto nei giudici?",
+            "translated": "Here it is, perhaps the only true proof of the devil's presence is the intensity with which everyone at that moment desires to know he is at work...\"\n\n\"You mean,\" said the Abbot with a worried tone, \"that in many trials the devil does not act only in the guilty but perhaps and above all in the judges?\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Potrei forse fate un'affermazione del genere?",
+            "translated": "\"I could perhaps make a statement like that?\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\" chiese Guglielmo, e mi avvidi che la domanda era formulata in modo che l'Abate non potesse affermare che lui poteva;",
+            "translated": "\"asked William, and I realized that the question was phrased in such a way that the Abbot could not assert that he could;\"",
+            "content_type": "split"
+        },
+        {
+            "original": "così Guglielmo approfittò del suo silenzio per deviare il corso del loro dialogo.",
+            "translated": "So William took advantage of his silence to change the course of their conversation.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Ma in fondo si tratta di cose lontane.",
+            "translated": "But at the bottom it is a matter of distant things.",
+            "content_type": "split"
+        },
+        {
+            "original": "Ho abbandonato quella nobile attività e se l'ho fatto è perché il Signore così ha voluto...\"\n\"Senza dubbio,\" ammise l'Abate.",
+            "translated": "\"I have abandoned that noble activity and if I have done so it is because the Lord has willed it...\"\n\"Undoubtedly,\" admitted the Abbot.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"...e ora,\" continuò Guglielmo, \"mi occupo di altre delicate questioni.",
+            "translated": "\"...and now,\" continued William, \"I am dealing with other delicate matters.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "E vorrei occuparmi di quella che vi travaglia, se voi me ne parlaste.",
+            "translated": "And I would like to deal with what troubles you, if you would talk to me about it.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\nMi parve che l'Abate fosse soddisfatto di poter terminare quella conversazione tornando al suo problema.",
+            "translated": "It seemed to me that the Abbot was satisfied to be able to end that conversation and return to his problem.",
+            "content_type": "split"
+        },
+        {
+            "original": "Prese dunque a raccontare, con molta prudenza nella scelta delle parole e lunghe perifrasi, di un fatto singolare che era accaduto pochi giorni prima e che aveva lasciato molto turbamento tra i monaci.",
+            "translated": "He then began to recount, with great prudence in the choice of words and long circumlocutions, a singular event that had occurred a few days earlier and had left the monks very disturbed.",
+            "content_type": "split"
+        },
+        {
+            "original": "E disse che ne parlava a Guglielmo perché, sapendolo gran conoscitore e dell'animo umano e delle trame del maligno, sperava che potesse dedicare parte del suo tempo prezioso a far luce su un dolorosissimo enigma.",
+            "translated": "And he said that he was speaking to William about it because, knowing him to be a great connoisseur of the human mind and the schemes of evil, he hoped that he could dedicate part of his precious time to shedding light on a most painful enigma.",
+            "content_type": "split"
+        },
+        {
+            "original": "Si era dunque dato il caso che Adelmo da Otranto, un monaco ancor giovane eppure già famoso come grande maestro miniatore, e che stava adornando i manoscritti della biblioteca di immagini bellissime, era stato trovato una mattina da un capraio in fondo alla scarpata dominata dal torrione est dell'Edificio.",
+            "translated": "It had therefore happened that Adelmo of Otranto, a monk still young but already famous as a great master of illumination, who was adorning the manuscripts of the library with beautiful images, had been found one morning by a goatherd at the bottom of the cliff dominated by the east tower of the Building.",
+            "content_type": "split"
+        },
+        {
+            "original": "Poiché era stato visto dagli altri monaci in coro durante compieta ma non era ricomparso a mattutino, era probabilmente precipitato durante le ore più buie della notte.",
+            "translated": "Since he had been seen by the other monks in the choir during Compline but had not reappeared at Matins, he had probably fallen during the darkest hours of the night.",
+            "content_type": "split"
+        },
+        {
+            "original": "Notte di grande tempesta di neve, in cui cadevano fiocchi taglienti come lame, che quasi sembravano grandine, spinti da un austro che soffiava impetuoso.",
+            "translated": "Night of a great snowstorm, in which flakes fell as sharp as blades, almost seeming like hail, driven by a south wind that blew impetuously.",
+            "content_type": "split"
+        },
+        {
+            "original": "Fatto",
+            "translated": "Done",
+            "content_type": "split"
+        },
+        {
+            "original": "molle da quella neve che si era dapprima sciolta e poi indurita in lamine di ghiaccio, il suo corpo era stato trovato ai piedi dello strapiombo, dilaniato dalle rocce contro cui aveva rimbalzato.",
+            "translated": "Soft from the snow that had first melted and then hardened into sheets of ice, his body was found at the foot of the precipice, torn apart by the rocks against which it had bounced.",
+            "content_type": "split"
+        },
+        {
+            "original": "Povera e fragile cosa mortale, che Dio avesse misericordia di lui.",
+            "translated": "Poor and fragile mortal thing, may God have mercy on him.",
+            "content_type": "split"
+        },
+        {
+            "original": "A causa dei molti rimbalzi che il corpo aveva subito precipitando, non era facile dire da qual punto esatto fosse caduto:",
+            "translated": "Due to the many bounces the body had undergone while falling, it was not easy to determine the exact point from which it had fallen.",
+            "content_type": "split"
+        },
+        {
+            "original": "certamente da una delle finestre che si aprivano per tre ordini di piani sui quattro lati del torrione esposti verso l'abisso.",
+            "translated": "Certainly from one of the windows that opened on three levels of floors on the four sides of the tower exposed towards the abyss.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Dove avete sepolto il povero corpo?",
+            "translated": "Where have you buried the poor body?",
+            "content_type": "split"
+        },
+        {
+            "original": "\" domandò Guglielmo.\n\"Nel cimitero, naturalmente,\" rispose l'Abate.",
+            "translated": "\"Guglielmo asked.\n\"In the cemetery, of course,\" the Abbot replied.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Forse lo avrete notato, si stende tra il lato settentrionale della chiesa, l'Edificio e l'orto.",
+            "translated": "Perhaps you have noticed it, it stretches between the northern side of the church, the Building, and the garden.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Vedo,\" disse Guglielmo, \"e vedo che il vostro problema è il seguente.",
+            "translated": "\"I see,\" said William, \"and I see that your problem is the following.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Se quell'infelice si fosse, Dio non voglia, suicidato (poiché non si poteva pensare che fosse caduto accidentalmente) il giorno dopo avreste trovato una di quelle finestre aperte, mentre le avete ritrovate tutte chiuse, e senza che ai piedi di alcuna apparissero tracce d'acqua.",
+            "translated": "If that unfortunate person had, God forbid, committed suicide (for it could not be thought that he had fallen accidentally), the next day you would have found one of those windows open, whereas you found them all closed, and with no traces of water at the foot of any of them.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\nL'Abate era uomo, lo dissi, di grande e diplomatica compostezza, ma questa volta ebbe un movimento di sorpresa che gli tolse ogni traccia di quel decoro che si addice alla persona grave e magnanima, come vuole Aristotele:",
+            "translated": "The Abbot was a man, I said, of great and diplomatic composure, but this time he had a movement of surprise that removed every trace of that decorum which befits a grave and magnanimous person, as Aristotle wants.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Chi ve lo ha detto?",
+            "translated": "Who told you that?",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Me lo avete detto voi,\" disse Guglielmo.",
+            "translated": "\"You told me so,\" said William.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Se la finestra fosse stata aperta, avreste subito pensato che egli vi si era gettato.",
+            "translated": "If the window had been open, you would have immediately thought that he had thrown himself out.",
+            "content_type": "split"
+        },
+        {
+            "original": "Da come ho potuto giudicare dall'esterno, si tratta di grandi finestre a vetrate opache e finestre di quel tipo non si aprono di solito, in edifici di questa mole, ad altezza d'uomo.",
+            "translated": "From what I could judge from the outside, these are large frosted glass windows, and windows of that type do not usually open, in buildings of this size, at human height.",
+            "content_type": "split"
+        },
+        {
+            "original": "Dunque se fosse stata aperta, essendo impossibile che lo sciagurato vi si fosse affacciato e avesse perduto l'equilibrio, non sarebbe restato che pensare a un suicidio.",
+            "translated": "Therefore, if it had been open, since it would have been impossible for the wretch to have leaned out and lost his balance, there would have been no alternative but to consider suicide.",
+            "content_type": "split"
+        },
+        {
+            "original": "Nel qual caso non lo avreste lasciato seppellire in terra consacrata.",
+            "translated": "In which case, you would not have let him be buried in consecrated ground.",
+            "content_type": "split"
+        },
+        {
+            "original": "Ma poiché lo avete seppellito cristianamente, le finestre dovevano essere chiuse.",
+            "translated": "But since you buried him Christianly, the windows had to be closed.",
+            "content_type": "split"
+        },
+        {
+            "original": "Perché se erano chiuse, non avendo io incontrato neppure nei processi di stregoneria un morto impenitente a cui Dio o il diavolo abbiano concesso di risalire dall'abisso per cancellar le tracce del suo misfatto, è evidente che il presunto suicida è stato piuttosto spinto, vuoi da mano umana vuoi da forza diabolica.",
+            "translated": "Because if they were closed, since I have not encountered even in witchcraft trials a repentant dead person to whom God or the devil has granted to rise from the abyss to erase the traces of his misdeed, it is evident that the presumed suicide was rather pushed, either by human hand or by diabolical force.",
+            "content_type": "split"
+        },
+        {
+            "original": "E voi vi chiedete chi possa averlo, non dico spinto nell'abisso, ma issato nolente sino al davanzale, e siete turbato perché una forza malefica, naturale o soprannaturale che sia, si aggira ora per l'abbazia.",
+            "translated": "And you wonder who might have, I do not say thrust into the abyss, but unwillingly hoisted up to the windowsill, and you are troubled because a malevolent force, natural or supernatural, is now prowling around the abbey.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"E' così...\" disse l'Abate, e non era chiaro se confermasse le parole di Guglielmo o rendesse ragione a se stesso delle ragioni che Guglielmo aveva così ammirevolmente prodotto.",
+            "translated": "\"It's like this...\" said the Abbot, and it was not clear whether he was confirming Guglielmo's words or reasoning with himself about the reasons that Guglielmo had so admirably presented.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Ma come fate a sapere che non vi era acqua ai piedi di alcuna vetrata?",
+            "translated": "But how do you know there was no water at the foot of any window?",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Poiché mi avete detto che soffiava l'austro e l'acqua non poteva essere spinta contro finestre che si aprono a oriente.",
+            "translated": "\"Since you told me that the south wind was blowing and the water could not be pushed against windows that open to the east.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Non mi avevano detto abbastanza delle vostre virtù,\" disse l'Abate.",
+            "translated": "\" \"They had not told me enough about your virtues,\" said the Abbot.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"E avete ragione, non c'era acqua, e ora so perché.",
+            "translated": "And you are right, there was no water, and now I know why.",
+            "content_type": "split"
+        },
+        {
+            "original": "Le cose sono andate come dite.",
+            "translated": "Things have gone as you say.",
+            "content_type": "split"
+        },
+        {
+            "original": "E ora capite la mia angoscia.",
+            "translated": "And now you understand my anguish.",
+            "content_type": "split"
+        },
+        {
+            "original": "Già sarebbe stato grave se uno dei miei monaci si fosse macchiato dell'abominevole peccato di suicidio.",
+            "translated": "It would have been serious enough if one of my monks had stained himself with the abominable sin of suicide.",
+            "content_type": "split"
+        },
+        {
+            "original": "Ma ho ragioni di ritenere che un altro di loro si sia macchiato di un peccato altrettanto terribile.",
+            "translated": "But I have reasons to believe that another of them has stained himself with an equally terrible sin.",
+            "content_type": "split"
+        },
+        {
+            "original": "E fosse solo quello...\"\n\"Anzitutto, perché uno dei monaci?",
+            "translated": "\"Oh, if only that were all...\"\n\"First of all, why one of the monks?\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Nell'abbazia vi sono molte altre persone, stallieri, caprai, servitori...\"",
+            "translated": "In the abbey, there are many other people, stable boys, goat herders, servants...\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Certo, è un'abbazia piccola ma ricca,\" ammise con sussiego l'Abate.",
+            "translated": "\"Certainly, it is a small but rich abbey,\" admitted the Abbot with haughtiness.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Centocinquanta famigli per sessanta monaci.",
+            "translated": "One hundred fifty families for sixty monks.",
+            "content_type": "split"
+        },
+        {
+            "original": "Ma tutto è avvenuto nell'Edificio.",
+            "translated": "But everything happened in the Building.",
+            "content_type": "split"
+        },
+        {
+            "original": "Quivi, come forse già sapete, anche se al primo piano vi sono e le cucine e il refettorio, ai due piani superiori vi sono lo scriptorium e la biblioteca.",
+            "translated": "There, as you may already know, although on the first floor there are the kitchens and the refectory, on the two upper floors there are the scriptorium and the library.",
+            "content_type": "split"
+        },
+        {
+            "original": "Dopo la cena l'Edificio viene chiuso e vi è una regola rigidissima che proibisce a chiunque di accedervi,\" indovinò la domanda di Guglielmo e aggiunse subito, ma chiaramente a malincuore, \"compresi i monaci naturalmente, ma...\"\n\"Ma?\"\n\"Ma escludo assolutamente, assolutamente capite, che un famiglio abbia avuto il coraggio di penetrarvi di notte.",
+            "translated": "After dinner the building is closed and there is a very strict rule that forbids anyone from entering it,\" William guessed the question and immediately added, but clearly reluctantly, \"including the monks of course, but...\"\n\"But?\"\n\"But I absolutely, absolutely understand, that a servant would have had the courage to enter it at night.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\" Nei suoi occhi passò come un sorriso di sfida, ma fu rapido come il baleno, o una stella cadente.",
+            "translated": "In her eyes flashed a smile of defiance, but it was as quick as lightning, or a shooting star.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Diciamo che avrebbero paura, sapete... talora gli ordini dati ai semplici vanno rinforzati con qualche minaccia, come il presagio che a chi disubbidisce possa accadere qualcosa di terribile, e per forza soprannaturale.",
+            "translated": "We say that they would be afraid, you know... sometimes the orders given to the common folk need to be reinforced with some threat, like the omen that something terrible might happen to those who disobey, and by supernatural force.",
+            "content_type": "split"
+        },
+        {
+            "original": "Un monaco invece...\"\n\"Capisco.",
+            "translated": "A monk, however...\n\"I understand.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Non solo, ma un monaco potrebbe avere altre ragioni per avventurarsi in un luogo interdetto, voglio dire ragioni... come dire?",
+            "translated": "\"Moreover, a monk might have other reasons to venture into a forbidden place, I mean reasons... how do I say?\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Ragionevoli, anche se contrarie alla regola...\"\n\nGuglielmo si accorse del disagio dell'Abate e fece una domanda che forse mirava a sviare il discorso, ma che produsse un disagio altrettanto grande.",
+            "translated": "Reasonable, even if contrary to the rule...\n\nWilliam noticed the Abbot's discomfort and asked a question that perhaps aimed to divert the conversation, but which produced an equally great discomfort.",
+            "content_type": "split"
+        },
+        {
+            "original": "«Parlando di un possibile omicidio avete detto «e fosse solo quello».",
+            "translated": "\"When talking about a possible murder, you said 'if only that were the case.'\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Che volevate dire?",
+            "translated": "What did you want to say?",
+            "content_type": "split"
+        },
+        {
+            "original": "»\n\"Ho detto così?",
+            "translated": "I said that?",
+            "content_type": "split"
+        },
+        {
+            "original": "Ebbene, non si uccide senza ragione, per quanto perversa.",
+            "translated": "Well, one does not kill without reason, no matter how perverse.",
+            "content_type": "split"
+        },
+        {
+            "original": "E tremo al pensiero della perversità delle ragioni che possono aver spinto un monaco a uccidere un confratello.",
+            "translated": "I tremble at the thought of the perversity of the reasons that may have driven a monk to kill a brother.",
+            "content_type": "split"
+        },
+        {
+            "original": "Ecco.",
+            "translated": "Here.",
+            "content_type": "split"
+        },
+        {
+            "original": "E' così.",
+            "translated": "It is so.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Non c'è altro?",
+            "translated": "\"Is that all?\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Non c'è altro che io possa dirvi.",
+            "translated": "\"There is nothing else that I can tell you.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Volete dire che non c'è altro che voi abbiate potere di dire?",
+            "translated": "\"Would you like to say that there is nothing else you have the power to say?\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Vi prego frate Guglielmo, fratello Guglielmo,\" e l'Abate accentuò sia frate che fratello.",
+            "translated": "\"Please, Brother William, Brother William,\" and the Abbot emphasized both \"brother\" and \"Brother.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Guglielmo arrossì vivamente e commentò:\n\"Eris sacerdos in aeternum.",
+            "translated": "William blushed deeply and commented:\n\"You are a priest forever.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Grazie,\" disse l'Abate.",
+            "translated": "\"Thank you,\" said the Abbot.",
+            "content_type": "split"
+        },
+        {
+            "original": "O Signore Iddio, quale mistero terribile sfiorarono in quel momento i miei imprudenti superiori, spinto l'uno dall'angoscia e l'altro dalla curiosità.",
+            "translated": "O Lord God, what a terrible mystery did my imprudent superiors brush up against at that moment, one driven by anguish and the other by curiosity.",
+            "content_type": "split"
+        },
+        {
+            "original": "Perché, novizio che si avviava ai misteri del santo sacerdozio di Dio, anch'io umile fanciullo compresi che l'Abate sapeva qualcosa ma lo aveva appreso sotto il sigillo della confessione.",
+            "translated": "Because, as a novice who was embarking on the mysteries of God's holy priesthood, I too, as a humble child, understood that the Abbot knew something but had learned it under the seal of confession.",
+            "content_type": "split"
+        },
+        {
+            "original": "Egli doveva aver saputo dalle labbra di qualcuno qualche particolare peccaminoso che poteva avere relazione con la tragica fine di Adelmo.",
+            "translated": "He must have heard from someone's lips some sinful detail that could have a relation to Adelmo's tragic end.",
+            "content_type": "split"
+        },
+        {
+            "original": "Per questo forse pregava frate Guglielmo di scoprire un segreto di cui egli sospettava senza poterlo palesare a nessuno, e sperava che il mio maestro facesse luce con le forze dell'intelletto su quanto egli doveva avvolgere d'ombra in forza del sublime imperio della carità.\n\"Bene,\" disse allora Guglielmo, \"potrò porre domande ai monaci?",
+            "translated": "For this reason, perhaps, Brother William was praying to discover a secret of which he suspected but could not reveal to anyone, and he hoped that my master would shed light with the powers of the intellect on what he had to shroud in darkness by the sublime empire of charity.\n\n\"Very well,\" said William then, \"will I be able to ask questions of the monks?\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Potrete.",
+            "translated": "You will be able to.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"",
+            "translated": "You didn't provide any text to translate. Please provide the Italian text you need translated into English.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Potrò aggirarmi liberamente per l'abbazia?",
+            "translated": "Will I be able to walk freely around the abbey?",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Ve ne conferisco facoltà.",
+            "translated": "\"I grant you the authority.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Mi investirete di questa missione coram monachos?",
+            "translated": "\"Will you entrust me with this mission in the presence of the monks?\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Questa sera stessa.",
+            "translated": "\"Tonight.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Comincerò però oggi, prima che i monaci sappiano di cosa mi avete incaricato.",
+            "translated": "\"I will start today, however, before the monks know what you have tasked me with.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "E inoltre desideravo molto, non ultima ragione del mio passaggio qui, visitare la vostra biblioteca, di cui si parla con ammirazione in tutte le abbazie della cristianità.",
+            "translated": "And moreover, I very much desired, not least among the reasons for my coming here, to visit your library, of which one hears such admiration in all the abbeys of Christendom.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\nL'Abate si alzò quasi di scatto, col viso molto teso.",
+            "translated": "The Abbot stood up almost abruptly, his face very tense.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"Potrete aggirarvi per tutta l'abbazia, ho detto.",
+            "translated": "You will be able to walk around the entire abbey, I said.",
+            "content_type": "split"
+        },
+        {
+            "original": "Non certo per l'ultimo piano dell'Edificio, nella biblioteca.",
+            "translated": "Not certainly for the top floor of the Building, in the library.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Perché?",
+            "translated": "\" Why?\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Avrei dovuto spiegarvelo prima, e credevo che lo sapeste.",
+            "translated": "\"I should have explained it to you earlier, and I thought you knew.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "Voi sapete che la nostra biblioteca non è come le altre...\"\n\"So che ha più libri di ogni altra biblioteca cristiana.",
+            "translated": "You know that our library is not like the others...\"\n\"I know it has more books than any other Christian library.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "So che a petto dei vostri armaria quelli di Bobbio o di Pomposa, di Cluny o di Fleury sembrano la stanza di un fanciullo che appena si inizi all'abaco.",
+            "translated": "So I know that compared to your libraries, those of Bobbio or Pomposa, of Cluny or Fleury seem like the room of a child who is just beginning to learn the abacus.",
+            "content_type": "split"
+        },
+        {
+            "original": "So che i seimila codici che vantava Novalesa cento e più anni fa sono poco a petto dei vostri, e forse molti di quelli sono ora qui.",
+            "translated": "I know that the six thousand codes that Novalesa boasted a hundred or more years ago are few compared to yours, and perhaps many of those are here now.",
+            "content_type": "split"
+        },
+        {
+            "original": "So che la vostra abbazia è l'unica luce che la cristianità possa opporre alle trentasei biblioteche di Bagdad, ai diecimila codici del visir Ibn al-Alkami, che il numero delle vostre bibbie eguaglia i duemilaquattrocento corani che vanta il Cairo, e che la realtà dei vostri armaria è luminosa evidenza contro la superba leggenda degli infedeli che anni fa volevano (intimi come sono del principe della menzogna) la biblioteca di Tripoli ricca di sei milioni di volumi e abitata da ottantamila commentatori e duecento scribi.",
+            "translated": "I know that your abbey is the only light that Christianity can oppose to the thirty-six libraries of Baghdad, to the ten thousand codices of the vizier Ibn al-Alkami, that the number of your Bibles equals the twenty-four hundred Korans that Cairo boasts, and that the reality of your bookcases is a luminous evidence against the proud legend of the infidels who, years ago, wanted (as they are intimate with the prince of lies) the library of Tripoli rich in six million volumes and inhabited by eighty thousand commentators and two hundred scribes.",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"Così è, siano rese lodi al cielo.",
+            "translated": "\"Thus it is, let praises be given to heaven.\"",
+            "content_type": "split"
+        },
+        {
+            "original": "\"\n\"So che tra i monaci che vivono tra voi molti vengono da altre abbazie sparse in tutto il mondo:",
+            "translated": "\"So I know that among the monks who live among you, many come from other abbeys scattered all over the world:\"",
+            "content_type": "split"
+        },
+        {
+            "original": "chi per poco tempo, onde copiare manoscritti introvabili altrove e portarli poi alla propria sede, non senza avervi portato in cambio qualche altro manoscritto introvabile che voi copierete e inserirete nel vostro tesoro;",
+            "translated": "Who for a short time, in order to copy manuscripts unfindable elsewhere and then bring them to his own seat, not without having brought in exchange some other unfindable manuscript that you will copy and insert into your treasure;",
+            "content_type": "split"
+        },
+        {
+            "original": "e chi per lunghissimo tempo, per restarvi talora sino alla morte, perché solo qui può trovare le opere che illuminino la sua ricerca.",
+            "translated": "and those who for a very long time, sometimes staying until death, because only here can they find the works that illuminate their research.",
+            "content_type": "split"
+        },
+        {
+            "original": "E dunque avete tra voi germani, daci, ispani, francesi e greci.",
+            "translated": "And so among you there are Germans, Dacians, Spaniards, Frenchmen, and Greeks.",
+            "content_type": "split"
+        },
+        {
+            "original": "So che l'imperatore Federico, molti e molti anni fa, chiese a voi di compilargli un libro sulle profezie di Merlino e di tradurlo poi in arabo, per inviarlo in dono al soldano d'Egitto.",
+            "translated": "I know that Emperor Frederick, many, many years ago, asked you to compile a book for him on the prophecies of Merlin and then translate it into Arabic, to send it as a gift to the Sultan of Egypt.",
+            "content_type": "split"
+        },
+        {
+            "original": "So infine che un'abbazia gloriosa come Murbach, in questi tempi tristissimi, non ha più un solo scriba, che a San Gallo sono rimasti pochi monaci che sappiano scrivere, che ormai è nelle città che sorgono corporazioni e gilde composte di secolari che lavorano per le università e che solo la vostra abbazia rinnova di giorno in giorno, che dico?",
+            "translated": "So it is that a glorious abbey like Murbach, in these very sad times, no longer has a single scribe, that in St. Gallen only a few monks remain who know how to write, that now it is in the cities that guilds and corporations are emerging, composed of laypeople who work for the universities, and that only your abbey renews itself day by day, what am I saying?",
+            "content_type": "split"
+        },
+        {
+            "original": ", porta a fastigi sempre più alti le glorie del vostro ordine...\"\n\"Monasterium sine libris,\" citò assorto l'Abate, \"est sicut civitas sine opibus, castrum sine numeris, coquina sine suppellectili, mensa sine cibis, hortus sine herbis, pratum sine floribus, arbor sine foliis... E il nostro ordine, crescendo intorno al doppio comandamento del lavoro e della preghiera, fu luce per tutto il mondo conosciuto, riserva di sapere, salvezza di una dottrina antica che minacciava di",
+            "translated": "\"...brings to ever higher peaks the glories of your order...\"\n\n\"The monastery without books,\" quoted the Abbot, absorbed, \"is like a city without walls, a fortress without soldiers, a kitchen without utensils, a table without food, a garden without herbs, a meadow without flowers, a tree without leaves... And our order, growing around the double commandment of work and prayer, was a light to the entire known world, a reservoir of knowledge, the salvation of an ancient doctrine that threatened to\"",
+            "content_type": "split"
         }
     ],
     "progress": {
-        "last_processed_page": 23
+        "last_processed_page": 33
     }
 }

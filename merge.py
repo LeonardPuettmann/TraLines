@@ -27,24 +27,39 @@ translated_style = ParagraphStyle(
     parent=styles['Normal'],
     textColor=light_gray,
     fontSize=9,
-    leading=12
+    leading=12,
+    spaceBefore=6,  # Add some space before the paragraph
+    spaceAfter=6    # Add some space after the paragraph
+)
+
+# For content that shouldn't be translated (whole content)
+whole_style = ParagraphStyle(
+    name='WholeContent',
+    parent=styles['Normal'],
+    fontSize=10,  # Same size as original text
+    leading=12,
+    spaceBefore=6,
+    spaceAfter=6
 )
 
 # Iterate through each sentence pair
 for sentence_pair in data["sentences"]:
     original = sentence_pair["original"]
-    translated = sentence_pair["translated"]
-
-    # Default to "split" if content_type isn't specified (for backward compatibility)
+    translated = sentence_pair.get("translated", "")
     content_type = sentence_pair.get("content_type", "split")
 
-    # Create Paragraph flowable for original content
-    original_paragraph = Paragraph(original, styles["Normal"])
+    # Create Paragraph flowables
+    # Use <br/> tags to explicitly preserve line breaks (ReportLab will convert these to actual line breaks)
+    original_text = original.replace('\n', '<br/>')
+    original_paragraph = Paragraph(original_text, styles["Normal"])
+
     story.append(original_paragraph)
 
     # Only add the translation for split content
     if content_type == "split":
-        translated_paragraph = Paragraph(translated, translated_style)
+        # Replace newlines with <br/> for proper line breaks in PDF
+        translated_text = translated.replace('\n', '<br/>')
+        translated_paragraph = Paragraph(translated_text, translated_style)
         story.append(translated_paragraph)
 
     # Add a blank space between entries
