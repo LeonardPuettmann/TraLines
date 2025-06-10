@@ -1,1 +1,6 @@
 tqdm
+mistralai
+spacy
+dotenv
+PyMuPDF
+reportlab

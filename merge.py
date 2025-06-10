@@ -1,8 +1,7 @@
-# pdf_generation_script.py
 import json
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
-from reportlab.lib.colors import gray
+from reportlab.lib import colors
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.units import inch
 
@@ -19,11 +18,14 @@ styles = getSampleStyleSheet()
 styles['Normal'].fontSize = 10  # Set the font size for original text
 styles['Normal'].leading = 12   # Set the line spacing
 
+# Define light gray color (70% gray)
+light_gray = colors.Color(0.7, 0.7, 0.7)
+
 # Define a style for translated text (light grey)
 translated_style = ParagraphStyle(
     name='Translated',
     parent=styles['Normal'],
-    textColor=gray(0.7),  # Light grey
+    textColor=light_gray,
     fontSize=9,
     leading=12
 )
@@ -33,15 +35,19 @@ for sentence_pair in data["sentences"]:
     original = sentence_pair["original"]
     translated = sentence_pair["translated"]
 
-    # Create Paragraph flowables for original and translated content
+    # Default to "split" if content_type isn't specified (for backward compatibility)
+    content_type = sentence_pair.get("content_type", "split")
+
+    # Create Paragraph flowable for original content
     original_paragraph = Paragraph(original, styles["Normal"])
-    translated_paragraph = Paragraph(translated, translated_style)
-
-    # Add the original and translated paragraphs to the story
     story.append(original_paragraph)
-    story.append(translated_paragraph)
 
-    # Add a blank space between sentence pairs
+    # Only add the translation for split content
+    if content_type == "split":
+        translated_paragraph = Paragraph(translated, translated_style)
+        story.append(translated_paragraph)
+
+    # Add a blank space between entries
     story.append(Spacer(1, 0.2*inch))
 
 # Build the PDF document
