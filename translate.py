@@ -1,18 +1,26 @@
+# translation_script.py
 import json
-from typing import Dict, Any
+from typing import Dict, Any, List
 import os
 from mistralai import Mistral
 from dotenv import load_dotenv
 from tqdm import tqdm
+import spacy
 
+# Load environment variables from .env file
 load_dotenv(override=True)
 
-# Load your JSON content
+# Load SpaCy model for Italian
+nlp = spacy.load("it_core_news_sm")
+
+def extract_sentences(text: str) -> List[str]:
+    doc = nlp(text)
+    return [sent.text.strip() for sent in doc.sents if sent.text.strip()]
+
 def load_json_content(file_path: str) -> Dict[str, Any]:
     with open(file_path, 'r', encoding='utf-8') as file:
         return json.load(file)
 
-# Function to translate text using Mistral API
 def translate_text(text: str, api_key: str) -> str:
     model = "mistral-large-latest"
     client = Mistral(api_key=api_key)
@@ -33,18 +41,37 @@ def translate_text(text: str, api_key: str) -> str:
 
     return chat_response.choices[0].message.content
 
-# Function to translate JSON content
-def translate_json_content(content: Dict[str, Any], api_key: str, translated_json_file_path: str) -> None:
-    for page in tqdm(content["pages"], desc="Translating pages"):
-        markdown_content = page["markdown"]
-        translated_content = translate_text(markdown_content, api_key)
-        page["translated_markdown"] = translated_content
+def translate_sentences(sentences: List[str], api_key: str) -> List[str]:
+    translations = []
+    for sentence in tqdm(sentences, desc="Translating sentences"):
+        translation = translate_text(sentence, api_key)
+        translations.append(translation)
+    return translations
 
-        # Save the updated content after each page translation
-        with open(translated_json_file_path, 'w', encoding='utf-8') as file:
-            json.dump(content, file, ensure_ascii=False, indent=4)
+def process_and_translate(json_file_path: str, translated_json_file_path: str, api_key: str) -> None:
+    # Load the JSON content
+    json_content = load_json_content(json_file_path)
 
-    content["progress"]["current_page"] = len(content["pages"])
+    # Concatenate all markdown content from all pages
+    full_text = " ".join([page["markdown"] for page in json_content["pages"]])
+
+    # Extract sentences
+    sentences = extract_sentences(full_text)
+
+    # Translate each sentence
+    translated_sentences = translate_sentences(sentences, api_key)
+
+    # Prepare the output structure
+    output_data = {
+        "sentences": [
+            {"original": original, "translated": translated}
+            for original, translated in zip(sentences, translated_sentences)
+        ]
+    }
+
+    # Save the translated sentences
+    with open(translated_json_file_path, 'w', encoding='utf-8') as file:
+        json.dump(output_data, file, ensure_ascii=False, indent=4)
 
 # Define directories
 original_dir = "original/json"
@@ -55,15 +82,17 @@ os.makedirs(translated_dir, exist_ok=True)
 
 # Load JSON content from a file in the original directory
 json_file_path = os.path.join(original_dir, 'ocr_response.json')
-json_content = load_json_content(json_file_path)
 
 # Set your Mistral API key
 api_key = os.getenv("MISTRAL_API_KEY")
+if api_key is None:
+    print("MISTRAL_API_KEY not found in the local .env file.")
+    exit(1)
 
 # Define the path for the translated JSON file
-translated_json_file_path = os.path.join(translated_dir, 'translated_content.json')
+translated_json_file_path = os.path.join(translated_dir, 'translated_sentences.json')
 
-# Translate the JSON content
-translate_json_content(json_content, api_key, translated_json_file_path)
+# Process and translate
+process_and_translate(json_file_path, translated_json_file_path, api_key)
 
-print(f"Translated content saved to {translated_json_file_path}")
+print(f"Translated sentences saved to {translated_json_file_path}")

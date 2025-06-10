@@ -1,11 +1,13 @@
+# pdf_generation_script.py
 import json
 from reportlab.lib.pagesizes import letter
-from reportlab.lib.styles import getSampleStyleSheet
-from reportlab.platypus import SimpleDocTemplate, Paragraph, BalancedColumns, PageBreak
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+from reportlab.lib.colors import gray
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.units import inch
 
-# Load the JSON file
-with open('translated/json/translated_content.json', 'r', encoding='utf-8') as f:
+# Load the JSON file with translated sentences
+with open('translated/json/translated_sentences.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # Create a PDF document
@@ -14,47 +16,35 @@ story = []
 
 # Get the sample style sheet and modify the font size and other properties
 styles = getSampleStyleSheet()
-styles['Normal'].fontSize = 8  # Set the font size to 8
-styles['Normal'].leading = 10  # Set the line spacing to 10
+styles['Normal'].fontSize = 10  # Set the font size for original text
+styles['Normal'].leading = 12   # Set the line spacing
 
-# Define the width for each column
-column_width = (doc.width - 30) / 2  # Subtract padding and inner padding
+# Define a style for translated text (light grey)
+translated_style = ParagraphStyle(
+    name='Translated',
+    parent=styles['Normal'],
+    textColor=gray(0.7),  # Light grey
+    fontSize=9,
+    leading=12
+)
 
-# Iterate through the first 30 pages in the JSON file
-for page in data["pages"][:20]:  # Only process the first 30 pages
-    original = page["markdown"]
-    translated = page["translated_markdown"]
+# Iterate through each sentence pair
+for sentence_pair in data["sentences"]:
+    original = sentence_pair["original"]
+    translated = sentence_pair["translated"]
 
-    # Create Paragraph flowables for original and translated content with specified width
+    # Create Paragraph flowables for original and translated content
     original_paragraph = Paragraph(original, styles["Normal"])
-    original_paragraph.wrapOn(doc, column_width, 1000)  # Wrap the paragraph to the column width
-    original_paragraph.width = column_width  # Set the width of the paragraph
+    translated_paragraph = Paragraph(translated, translated_style)
 
-    translated_paragraph = Paragraph(translated, styles["Normal"])
-    translated_paragraph.wrapOn(doc, column_width, 1000)  # Wrap the paragraph to the column width
-    translated_paragraph.width = column_width  # Set the width of the paragraph
+    # Add the original and translated paragraphs to the story
+    story.append(original_paragraph)
+    story.append(translated_paragraph)
 
-    # Create a BalancedColumns flowable with two columns for each pair
-    balanced_columns = BalancedColumns(
-        [original_paragraph, translated_paragraph],
-        nCols=2,
-        needed=72,
-        spaceBefore=0,
-        spaceAfter=0,
-        showBoundary=0,
-        leftPadding=10,
-        rightPadding=10,
-        topPadding=10,
-        bottomPadding=10,
-        innerPadding=10,
-        name='BalancedColumns'
-    )
-
-    # Add the BalancedColumns flowable to the story
-    story.append(balanced_columns)
-
-    # Add a page break after each pair
-    story.append(PageBreak())
+    # Add a blank space between sentence pairs
+    story.append(Spacer(1, 0.2*inch))
 
 # Build the PDF document
 doc.build(story)
+
+print("PDF generated successfully as output.pdf")
