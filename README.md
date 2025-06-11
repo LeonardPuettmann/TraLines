@@ -1,6 +1,3 @@
-Here is the raw markdown for the PDF Translation Tool documentation:
-
-````markdown
 # PDF Translation Tool
 
 A tool to extract text from PDFs, translate it, and merge the translated text back into a new PDF.
@@ -149,4 +146,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-````
