@@ -1,6 +1,13 @@
-# PDF Translation Tool
+```
+ ______         __   _            
+/_  __/______ _/ /  (_)__  ___ ___
+ / / / __/ _ `/ /__/ / _ \/ -_|_-<
+/_/ /_/  \_,_/____/_/_//_/\__/___/
+```
 
-A tool to extract text from PDFs, translate it, and merge the translated text back into a new PDF.
+# TraLines
+
+TraLines - A tool to extract text from PDFs, translate it, and merge the translated text back into a new PDF for language learning purposes.
 
 ## Table of Contents
 
@@ -80,12 +87,13 @@ project/
 │   ├───json
 │   │       ocr_response.json
 │   └───pdf
-│           Umberto Eco - Il Nome Della Rosa.pdf
+│           book-name.pdf
 │
 └───translated
     ├───json
     │       translated_sentences.json
     └───pdf
+            book-name - Translated.pdf
 ```
 
 - `.env`: Environment variables file.
